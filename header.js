@@ -5,7 +5,7 @@ document.write(
   '                                                                            \n' +
   '<header>                                                                    \n' +
   '  <div class="nom_asso">                                                    \n' +
-  '    <a href="index.html">Association Agile France</a>                       \n' +
+  '    <a href="http://agile-france.org">Association Agile France</a>          \n' +
   '  </div>                                                                    \n' +
   '  <div class="logo_asso">▤ ▣ ▨</div>                                        \n' +
   '</header>');
