@@ -1,7 +1,5 @@
 document.write(
   '<footer>                                                                      \n' +
-  '  <p>Agile France - 2014-2015</p>                                             \n' +
-  '                                                                              \n' +
   '  <p>                                                                         \n' +
   '    Association Agile France</br>                                             \n' +
   '    chez Numa</br>                                                            \n' +
