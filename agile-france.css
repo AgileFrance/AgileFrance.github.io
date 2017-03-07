@@ -7,7 +7,6 @@ body {
 }
 
 header {
-  background: #0f2e3f;
   margin: 32px 0;
   padding: 16px;
   font-size: 3em;
@@ -15,6 +14,7 @@ header {
 }
 
 header .nom_asso {
+  background: #0f2e3f;
   font-style: italic;
   display: inline;
 }
