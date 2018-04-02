@@ -1,64 +1,57 @@
 body {
-  background: #eaeaea;
-  width: 960px;
-  margin: 0 auto;
-  font-family: helvetica;
-  color: #0f2e3f;
+	margin: 0 auto;
+	max-width: 60em;
+
+	font-family: Helvetica, sans-serif;
+	background-color: #eaeaea;
+	color: #0f2e3f;
 }
 
 header {
-  margin: 32px 0;
-  padding: 16px;
-  font-size: 3em;
-  color: white;
+	margin: 2em 0;
+	padding: 1em;
+	color: white;
 }
 
-header .nom_asso {
-  background: #0f2e3f;
-  font-style: italic;
-  display: inline;
+header h1 {
+	background: #0f2e3f;
+	font-style: italic;
+	display: inline;
+	font-size: 300%;
+	font-weight: normal;
 }
 
 header a {
-  text-decoration: none;
-  color: white;
+	text-decoration: none;
+	color: white;
 }
 
-header .logo_asso {
-  float: right;
-}
-
-.bienvenue {
-  margin: 48px 0 0 16px;
+header img {
+	float: right;
 }
 
 main {
-  margin: 96px 0 0 0;
+	margin-top: 10em;
 }
 
 main h1 {
-  background: #418fb7;
-  padding: 8px 16px;
-  color: white;
-  font-style: italic;
-  font-weight: normal;
-}
-
-main p {
-  padding: 0 16px 24px;
+	background: #418fb7;
+	color: white;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 150%;
+	padding: .4em;
+	margin-top: 2em;
 }
 
 footer {
-  background: #0f2e3f;
-  color: white;
-  margin-top: 48px;
-  padding: 16px;
-  text-align: right;
-}
-
-footer p {
+	background: #0f2e3f;
+	color: white;
+	margin-top: 4em;
+	padding: 2em;
+	text-align: right;
 }
 
 footer a {
-  color: #418fb7;
+	color: #418fb7;
 }
