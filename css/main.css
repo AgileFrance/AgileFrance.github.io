@@ -32,11 +32,11 @@ header .logo_asso {
   margin: 48px 0 0 16px;
 }
 
-section {
+main {
   margin: 96px 0 0 0;
 }
 
-section h1 {
+main h1 {
   background: #418fb7;
   padding: 8px 16px;
   color: white;
@@ -44,7 +44,7 @@ section h1 {
   font-weight: normal;
 }
 
-section p {
+main p {
   padding: 0 16px 24px;
 }
 

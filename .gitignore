@@ -1,1 +1,5 @@
+# Build folder
+_site
+
+# OS-specific files
 .DS_Store
