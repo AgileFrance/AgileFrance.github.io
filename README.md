@@ -8,8 +8,8 @@ Ce site est construit avec [Jekyll](https://jekyllrb.com/), un générateur de s
 Pour l'améliorer, installer [Ruby](https://www.ruby-lang.org/fr/) et [Jekyll](https://jekyllrb.com) dans leurs [versions de production](https://pages.github.com/versions/) :
 
 ```sh
-git clone https://github.com/betagouv/beta.gouv.fr.git
-cd beta.gouv.fr
+git clone https://github.com/AgileFrance/AgileFrance.github.io.git
+cd AgileFrance.github.io
 gem install bundler --no-ri --no-rdoc
 bundle install
 bundle exec jekyll serve
