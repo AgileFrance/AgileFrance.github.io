@@ -18,6 +18,7 @@ jobs:
           key: dependency-cache-{{ checksum "Gemfile" }}
           paths:
             - ./vendor/bundle
+            - $HOME/.local
 
       - run:
           name: check Jekyll configuration
