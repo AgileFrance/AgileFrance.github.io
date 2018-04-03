@@ -3,7 +3,7 @@ version: 2
 jobs:
   build:
     docker:
-       - image: circleci/ruby:2.4.2-browsers  # we use the browsers variant to have Java preinstalled as it is a dependency of html5validator
+       - image: circleci/ruby:2.4.2-browsers  # use the browsers variant image to have Java preinstalled as it is a dependency of html5validator
 
     steps:
       - checkout
@@ -11,8 +11,15 @@ jobs:
           key: dependency-cache-{{ checksum "Gemfile" }}
 
       - run:
-          name: Install dependencies
+          name: Install Ruby dependencies
           command: bundle install --jobs=4 --retry=3 --path vendor/bundle
+
+      - run:
+          name: Install html5validator
+          command: |
+            sudo apt-get update
+            sudo apt-get install -y python-pip
+            pip install --user --upgrade html5validator  # will install in $HOME/.local
 
       - save_cache:
           key: dependency-cache-{{ checksum "Gemfile" }}
@@ -29,8 +36,16 @@ jobs:
           command: bundle exec jekyll build --safe
 
       - run:
-          name: Check that Jekyll has compiled something
+          name: Check homepage was compiled
           command: test -s _site/index.html
+
+      - run:
+          name: Check HTML common mistakes
+          command: bundle exec htmlproofer ./_site --assume-extension --check-html --disable-external --empty-alt-ignore --check-img-http
+
+      - run:
+          name: Validate HTML spec compliance
+          command: $HOME/.local/bin/html5validator --root _site
 
       - run:
           name: Start server
@@ -42,16 +57,3 @@ jobs:
             while ! curl --silent http://localhost:4000
             do sleep 1
             done
-
-      - run:
-          name: Check HTML contents
-          command: bundle exec htmlproofer ./_site --assume-extension --check-html --disable-external --empty-alt-ignore --check-img-http
-      - run:
-          name: Install html5validator
-          command: |
-            sudo apt-get update
-            sudo apt-get install -y python-pip
-            pip install --user --upgrade html5validator
-      - run:
-          name: Validate HTML spec compliance
-          command: $HOME/.local/bin/html5validator --root _site
