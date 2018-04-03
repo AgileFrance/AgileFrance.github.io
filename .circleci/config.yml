@@ -11,7 +11,7 @@ jobs:
           key: dependency-cache-{{ checksum "Gemfile" }}
 
       - run:
-          name: install dependencies
+          name: Install dependencies
           command: bundle install --jobs=4 --retry=3 --path vendor/bundle
 
       - save_cache:
@@ -21,23 +21,23 @@ jobs:
             - $HOME/.local
 
       - run:
-          name: check Jekyll configuration
+          name: Check Jekyll configuration
           command: bundle exec jekyll doctor
 
       - run:
-          name: compile website
+          name: Compile website
           command: bundle exec jekyll build --safe
 
       - run:
-          name: check that Jekyll has compiled something
+          name: Check that Jekyll has compiled something
           command: test -s _site/index.html
 
       - run:
-          name: start server
+          name: Start server
           command: bundle exec jekyll serve --no-watch --skip-initial-build
           background: true
       - run:
-          name: wait for server to start
+          name: Wait for server to start
           command: |
             while ! curl --silent http://localhost:4000
             do sleep 1
