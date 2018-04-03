@@ -3,7 +3,7 @@ version: 2
 jobs:
   build:
     docker:
-       - image: circleci/ruby:2.4.2
+       - image: circleci/ruby:2.4.2-browsers  # we use the browsers variant to have Java preinstalled as it is a dependency of html5validator
 
     steps:
       - checkout
@@ -43,5 +43,14 @@ jobs:
             done
 
       - run:
-          name: Validate HTML
+          name: Check HTML contents
           command: bundle exec htmlproofer ./_site --assume-extension --check-html --disable-external --empty-alt-ignore --check-img-http
+      - run:
+          name: Install html5validator
+          command: |
+            sudo apt-get update
+            sudo apt-get install -y python-pip
+            pip install --user --upgrade html5validator
+      - run:
+          name: Validate HTML spec compliance
+          command: $HOME/.local/bin/html5validator --root _site
