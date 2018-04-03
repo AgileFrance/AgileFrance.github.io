@@ -1,5 +1,4 @@
 ---
-title: Règlement
 permalink: /reglement
 ---
 
