@@ -41,3 +41,7 @@ jobs:
             while ! curl --silent http://localhost:4000
             do sleep 1
             done
+
+      - run:
+          name: Validate HTML
+          command: bundle exec htmlproofer ./_site --assume-extension --check-html --disable-external --empty-alt-ignore --check-img-http

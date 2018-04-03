@@ -40,3 +40,8 @@ rescue => standard_error
   # Try to use whatever version is already installed.
   gem 'github-pages'
 end
+
+
+group :test do
+  gem 'html-proofer'
+end
