@@ -19,8 +19,20 @@ jobs:
           paths:
             - ./vendor/bundle
 
-      - run: bundle exec jekyll build --safe
       - run:
+          name: check Jekyll configuration
+          command: bundle exec jekyll doctor
+
+      - run:
+          name: compile website
+          command: bundle exec jekyll build --safe
+
+      - run:
+          name: check that Jekyll has compiled something
+          command: test -s _site/index.html
+
+      - run:
+          name: start server
           command: bundle exec jekyll serve --no-watch --skip-initial-build
           background: true
       - run:
