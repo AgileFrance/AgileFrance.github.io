@@ -43,6 +43,6 @@ Le bureau de l'association est actuellement composé de :
 
 # Documents
 
-- [Statuts](/statuts.pdf)
+- [Statuts](/statuts)
 - [Réglement intérieur](/reglement.pdf)
 - [Compte-rendu assemblée générale 19/02/2018](/2018/02/19/compte-rendu-assemblee-generale/)
