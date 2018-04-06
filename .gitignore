@@ -1,0 +1,12 @@
+# Build folder
+_site
+
+# OS-specific files
+.DS_Store
+
+# Bundler
+.bundle
+Gemfile.lock
+
+# Ruby
+.ruby-gemset
