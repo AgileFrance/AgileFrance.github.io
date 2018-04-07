@@ -8,10 +8,11 @@ L'association Agile France se donne pour but de soutenir financièrement, admini
 
 Le bureau de l'association est actuellement composé de :
 
-- Christophe Thibaut
-- Colin Garriga-Salaün
-- Éric Lefevre-Ardant
-- Frederic Merizen
+- [Matti Schneider](https://mattischneider.fr/)
+- [Peggy Avez](http://peggyavez.com/)
+- [Julien Porot](https://linkedin.com/in/julienporot)
+- [Émilie Esposito](https://linkedin.com/in/emilie-esposito)
+- [David Larlet](https://larlet.fr/david/)
 
 # Soutiens récents
 
