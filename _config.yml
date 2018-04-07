@@ -5,6 +5,11 @@ include: ['_pages']
 
 url: http://agile-france.org
 
+
+collections:
+  bureau:
+    output: true
+
 defaults:
   -
     scope:

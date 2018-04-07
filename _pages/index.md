@@ -41,6 +41,17 @@ Le bureau de l'association est actuellement composé de :
 - Lean Camp
 
 
+# Bureaux
+
+Les bureaux successifs ont donné des orientations à l'association qui ont construit son histoire.
+
+{% assign bureaux = site.bureau | reverse %}
+
+{% for bureau in bureaux %}
+### {{ bureau.election }} — [Note d'intention de la liste {{ bureau.liste }}]({{ bureau.url }})
+{% endfor %}
+
+
 # Documents
 
 - [Statuts](/statuts)
