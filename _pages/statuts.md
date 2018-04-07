@@ -6,7 +6,7 @@ permalink: /statuts
 
 ## Article 1er
 
-Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1^er ^juillet 1901 et le décret du 16 août 1901, ayant pour titre :
+Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1ᵉ juillet 1901 et le décret du 16 août 1901, ayant pour titre :
 
 **Agile France**
 
