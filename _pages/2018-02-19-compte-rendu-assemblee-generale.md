@@ -2,9 +2,8 @@
 permalink: /2018/02/19/compte-rendu-assemblee-generale/
 ---
 
-# Compte-Rendu L'Assemblée Générale de l'association Agile France
+# Compte-Rendu de l'Assemblée Générale de l'association Agile France du lundi 19 Février 2018
 
-Lundi 19 Février 2018
 - Président de séance : Fredéric Merizen
 - Secrétaire de séance : Christophe Thibaut
 
