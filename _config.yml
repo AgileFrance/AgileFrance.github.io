@@ -13,6 +13,14 @@ collections:
 defaults:
   -
     scope:
-      path: ""
+      path: "" # means "all files"
     values:
       layout: default
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: bureau # targets a collection
+    values:
+      layout: bureau
