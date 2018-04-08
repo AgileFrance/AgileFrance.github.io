@@ -41,6 +41,17 @@ Le bureau de l'association est actuellement composé de :
 - Lean Camp
 
 
+# Le mot de l'asso
+
+Lors de la conférence AgileFrance a régulièrement eu lieu une prise de parole de l'association. Ces « mots » font partie de son histoire publique.
+
+{% assign mots = site.mot_conference | reverse %}
+
+{% for mot in mots %}
+- [Discours lors de la conférence {{ mot.id | remove: "/mot_conference/" | date: "%Y" }}]({{ mot.url }})
+{% endfor %}
+
+
 # Documents
 
 - [Statuts](/statuts)
