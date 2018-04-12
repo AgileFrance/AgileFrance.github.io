@@ -47,7 +47,7 @@ Les assemblées générales sont les réunions annuelles lors desquelles le bure
 
 {% assign assemblees_generales = site.assemblee_generale | reverse %}
 
-{% for ag in assemblees_generales %}
+{% for ag in assemblees_generales -%}
 - [Compte-rendu de l'assemblée générale du {{ ag.id | remove: "/assemblee_generale/" | date: "%d/%m/%Y" }}]({{ ag.url }})
 {% endfor %}
 
