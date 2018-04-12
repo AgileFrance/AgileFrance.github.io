@@ -41,8 +41,18 @@ Le bureau de l'association est actuellement composé de :
 - Lean Camp
 
 
+# Assemblées générales
+
+Les assemblées générales sont les réunions annuelles lors desquelles le bureau présente son bilan, où le bureau peut être renouvelé, et où de grandes orientations peuvent être décidées.
+
+{% assign assemblees_generales = site.assemblee_generale | reverse %}
+
+{% for ag in assemblees_generales -%}
+- [Compte-rendu de l'assemblée générale du {{ ag.id | remove: "/assemblee_generale/" | date: "%d/%m/%Y" }}]({{ ag.url }})
+{% endfor %}
+
+
 # Documents
 
 - [Statuts](/statuts)
 - [Réglement intérieur](/reglement)
-- [Compte-rendu assemblée générale 19/02/2018](/2018/02/19/compte-rendu-assemblee-generale/)
