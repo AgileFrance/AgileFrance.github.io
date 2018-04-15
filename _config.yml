@@ -17,8 +17,6 @@ defaults:
       path: "" # means "all files"
     values:
       layout: default
-
-defaults:
   -
     scope:
       path: ""
