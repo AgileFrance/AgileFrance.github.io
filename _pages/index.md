@@ -52,6 +52,17 @@ Les assemblées générales sont les réunions annuelles lors desquelles le bure
 {% endfor %}
 
 
+# Bureaux
+
+Les bureaux successifs ont donné des orientations à l'association qui ont construit son histoire.
+
+{% assign bureaux = site.bureau | reverse %}
+
+{% for bureau in bureaux -%}
+- {{ bureau.election | date: "%Y" }} — [Note d'intention de la liste {{ bureau.liste }}]({{ bureau.url }})
+{% endfor %}
+
+
 # Documents
 
 - [Statuts](/statuts)

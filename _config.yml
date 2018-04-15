@@ -8,10 +8,20 @@ url: http://agile-france.org
 collections:
   assemblee_generale:
     output: true
+  bureau:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: "" # means "all files"
+    values:
+      layout: default
 
 defaults:
   -
     scope:
       path: ""
+      type: bureau # targets a collection
     values:
-      layout: default
+      layout: bureau
