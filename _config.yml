@@ -10,6 +10,8 @@ collections:
     output: true
   bureau:
     output: true
+  mot_conference:
+    output: true
 
 defaults:
   -
@@ -23,3 +25,9 @@ defaults:
       type: bureau # targets a collection
     values:
       layout: bureau
+  -
+    scope:
+      path: ""
+      type: mot_conference
+    values:
+      layout: mot_conference
