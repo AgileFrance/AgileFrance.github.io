@@ -25,3 +25,9 @@ defaults:
       type: bureau # targets a collection
     values:
       layout: bureau
+  -
+    scope:
+      path: ""
+      type: mot_conference
+    values:
+      layout: mot_conference
