@@ -47,7 +47,7 @@ Lors de la conférence AgileFrance a régulièrement eu lieu une prise de parole
 
 {% assign mots = site.mot_conference | reverse %}
 
-{% for mot in mots %}
+{% for mot in mots -%}
 - [Discours lors de la conférence {{ mot.id | remove: "/mot_conference/" | date: "%Y" }}]({{ mot.url }})
 {% endfor %}
 
