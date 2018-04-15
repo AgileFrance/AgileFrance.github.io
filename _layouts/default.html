@@ -5,6 +5,10 @@
 		<title>{% if page.title %}{{ page.title }} — {% endif %}AgileFrance</title>
 
 		<link href="/css/main.css" rel="stylesheet" type="text/css" media="all">
+
+		{% if page.canonical %}
+		<link rel="canonical" href="{{ page.canonical }}">
+		{% endif %}
 	</head>
 	<body>
 		<header>

@@ -6,13 +6,22 @@ include: ['_pages']
 url: http://agile-france.org
 
 collections:
+  assemblee_generale:
+    output: true
+  bureau:
+    output: true
   mot_conference:
     output: true
-
 
 defaults:
   -
     scope:
-      path: ""
+      path: "" # means "all files"
     values:
       layout: default
+  -
+    scope:
+      path: ""
+      type: bureau # targets a collection
+    values:
+      layout: bureau
