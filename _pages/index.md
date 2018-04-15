@@ -47,8 +47,8 @@ Les bureaux successifs ont donné des orientations à l'association qui ont cons
 
 {% assign bureaux = site.bureau | reverse %}
 
-{% for bureau in bureaux %}
-### {{ bureau.election | date: "%Y" }} — [Note d'intention de la liste {{ bureau.liste }}]({{ bureau.url }})
+{% for bureau in bureaux -%}
+- {{ bureau.election | date: "%Y" }} — [Note d'intention de la liste {{ bureau.liste }}]({{ bureau.url }})
 {% endfor %}
 
 
