@@ -1,4 +1,5 @@
 ---
+title: Règlement intérieur
 permalink: /reglement
 ---
 

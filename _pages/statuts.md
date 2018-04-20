@@ -1,4 +1,5 @@
 ---
+title: Statuts
 permalink: /statuts
 ---
 
