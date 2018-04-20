@@ -2,11 +2,11 @@
 permalink: /
 ---
 
-# À propos de l'association
+# À propos de l’association
 
-L'association Agile France se donne pour but de soutenir financièrement, administrativement, logistiquement, organisationnellement, communicationnellement, nutritionnellement et psychologiquement des actions visant à promouvoir de près ou de loin les méthodes agiles de développement logiciel, sous toutes formes et pour tous publics, de préférence francophones.
+L’association Agile France se donne pour but de soutenir financièrement, administrativement, logistiquement, organisationnellement, communicationnellement, nutritionnellement et psychologiquement des actions visant à promouvoir de près ou de loin les méthodes agiles de développement logiciel, sous toutes formes et pour tous publics, de préférence francophones.
 
-Le bureau de l'association est actuellement composé de :
+Le bureau de l’association est actuellement composé de :
 
 - [Matti Schneider](https://mattischneider.fr/)
 - [Peggy Avez](http://peggyavez.com/)
@@ -41,14 +41,14 @@ Le bureau de l'association est actuellement composé de :
 - Lean Camp
 
 
-# Le mot de l'asso
+# Le mot de l’asso
 
-Lors de la conférence AgileFrance a régulièrement eu lieu une prise de parole de l'association. Ces « mots » font partie de son histoire publique.
+Lors de la conférence AgileFrance a régulièrement eu lieu une prise de parole de l’association. Ces « mots » font partie de son histoire publique.
 
 {% assign mots = site.mot_conference | reverse %}
 
 {% for mot in mots -%}
-- [Discours lors de la conférence {{ mot.date | date: "%Y" }}]({{ mot.url }})
+- [{{ mot.title }}]({{ mot.url }})
 {% endfor %}
 
 
@@ -59,18 +59,18 @@ Les assemblées générales sont les réunions annuelles lors desquelles le bure
 {% assign assemblees_generales = site.assemblee_generale | reverse %}
 
 {% for ag in assemblees_generales -%}
-- [Compte-rendu de l'assemblée générale du {{ ag.id | remove: "/assemblee_generale/" | date: "%d/%m/%Y" }}]({{ ag.url }})
+- [{{ ag.title }}]({{ ag.url }})
 {% endfor %}
 
 
 # Bureaux
 
-Les bureaux successifs ont donné des orientations à l'association qui ont construit son histoire.
+Les bureaux successifs ont donné des orientations à l’association qui ont construit son histoire.
 
 {% assign bureaux = site.bureau | reverse %}
 
 {% for bureau in bureaux -%}
-- {{ bureau.election | date: "%Y" }} — [Note d'intention de la liste {{ bureau.liste }}]({{ bureau.url }})
+- {{ bureau.election | date: "%Y" }} — [{{ bureau.title }}]({{ bureau.url }})
 {% endfor %}
 
 

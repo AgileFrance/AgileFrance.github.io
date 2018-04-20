@@ -2,6 +2,6 @@
 layout: default
 ---
 
-<h1>Discours prononcé le {{ page.date | date: "%d/%m/%Y" }} {%if page.speaker %}par {{ page.speaker }}{% endif %} au nom de l'association lors de la conférence AgileFrance</h1>
+<h1>{{ page.title }} prononcé le {{ page.date | date: "%d/%m/%Y" }} {%if page.speaker %}par {{ page.speaker }}{% endif %} au nom de l’association</h1>
 
 {{ content }}
