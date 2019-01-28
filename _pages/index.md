@@ -18,6 +18,13 @@ Le bureau de l’association est actuellement composé de :
 
 # Soutiens récents
 
+## 2018
+
+- [Conférence Agile France](http://2018.conf.agile-france.org)
+- [Agile Open France](http://agileopenfrance.com/)
+- [Meetup OPEN Nouvelle-Calédonie](https://www.meetup.com/fr-FR/Meetup-des-professionnels-du-numerique-en-Nouvelle-Caledonie/events/252426773/)
+- [Meetup Systémique et agilité](https://www.meetup.com/fr-FR/Systemique-Agilite-dialogue-pour-transformer-lentreprise/)
+
 ## 2017
 
 - [Conférence Agile France](http://2017.conf.agile-france.org)
