@@ -20,30 +20,30 @@ Le bureau de l’association est actuellement composé de :
 
 ## 2018
 
-- [Conférence Agile France](http://2018.conf.agile-france.org)
+- [Conférence Agile France](https://2018.conf.agile-france.org)
 - [Agile Open France](http://agileopenfrance.com/)
 - [Meetup OPEN Nouvelle-Calédonie](https://www.meetup.com/fr-FR/Meetup-des-professionnels-du-numerique-en-Nouvelle-Caledonie/events/252426773/)
 - [Meetup Systémique et agilité](https://www.meetup.com/fr-FR/Systemique-Agilite-dialogue-pour-transformer-lentreprise/)
 
 ## 2017
 
-- [Conférence Agile France](http://2017.conf.agile-france.org)
+- [Conférence Agile France](https://2017.conf.agile-france.org)
 - [Agile Open France](https://www.yuticket.com/association-agile-france/810a24b6-2765-400b-aacc-da609cec39be-agile-open-france-2017-aof17.html)
 
 ## 2016
 
-- [Conférence Agile France](http://2016.conf.agile-france.org)
+- [Conférence Agile France](https://2016.conf.agile-france.org)
 - [Agile Open France](https://www.yuticket.com/association-agile-france/61f3f1b3-9ad7-4c40-b5ca-6316b134853f-agile-open-france-2016-aof16.html)
 - [Geek Camp](https://www.meetup.com/fr-FR/software-craftsmanship-bdx/events/230739321)
 
 ## 2015
 
-- [Conférence Agile France](http://2015.conf.agile-france.org)
+- [Conférence Agile France](https://2015.conf.agile-france.org)
 - [Agile Open France](https://www.yuticket.com/association-agile-france/c4513d61-5d3b-4996-8fa2-2d76462a7c52-agile-open-france-2015-aof15.html)
 
 ## 2014
 
-- [Conférence Agile France](http://2014.conf.agile-france.org)
+- [Conférence Agile France](https://2014.conf.agile-france.org)
 - Agile Open France
 - Geek Camp
 - Agile Beirut
