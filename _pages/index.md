@@ -6,6 +6,8 @@ permalink: /
 
 L’association Agile France se donne pour but de soutenir financièrement, administrativement, logistiquement, organisationnellement, communicationnellement, nutritionnellement et psychologiquement des actions visant à promouvoir de près ou de loin les méthodes agiles de développement logiciel, sous toutes formes et pour tous publics, de préférence francophones.
 
+## [Rejoindre l'association](adhesion)
+
 Le bureau de l’association est actuellement composé de :
 
 - [Matti Schneider](https://mattischneider.fr/)
