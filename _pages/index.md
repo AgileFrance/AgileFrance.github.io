@@ -29,6 +29,7 @@ Le bureau de l’association est actuellement composé de :
 
 - [Conférence Agile France](https://2017.conf.agile-france.org)
 - [Agile Open France](https://www.yuticket.com/association-agile-france/810a24b6-2765-400b-aacc-da609cec39be-agile-open-france-2017-aof17.html)
+- [Comparatif de post-its](https://medium.com/@MattiSG/stupid-science-i-compared-23-sticky-notes-to-help-you-spare-wallet-and-planet-fc9b97d88503)
 
 ## 2016
 
