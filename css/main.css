@@ -44,6 +44,10 @@ main h1 {
 	margin-top: 2em;
 }
 
+img {
+	width: 48%;
+}
+
 footer {
 	background: #0f2e3f;
 	color: white;
