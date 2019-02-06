@@ -8,13 +8,7 @@ L’association Agile France se donne pour but de soutenir financièrement, admi
 
 ## [Rejoindre l'association](adhesion)
 
-Le bureau de l’association est actuellement composé de :
 
-- [Matti Schneider](https://mattischneider.fr/)
-- [Peggy Avez](http://peggyavez.com/)
-- [Julien Porot](https://linkedin.com/in/julienporot)
-- [Émilie Esposito](https://linkedin.com/in/emilie-esposito)
-- [David Larlet](https://larlet.fr/david/)
 
 # Soutiens récents
 
@@ -74,6 +68,14 @@ Les assemblées générales sont les réunions annuelles lors desquelles le bure
 
 
 # Bureaux
+
+Le bureau de l’association est actuellement composé de :
+
+- [Matti Schneider](https://mattischneider.fr/)
+- [Peggy Avez](http://peggyavez.com/)
+- [Julien Porot](https://linkedin.com/in/julienporot)
+- [Émilie Esposito](https://linkedin.com/in/emilie-esposito)
+- [David Larlet](https://larlet.fr/david/)
 
 Les bureaux successifs ont donné des orientations à l’association qui ont construit son histoire.
 
