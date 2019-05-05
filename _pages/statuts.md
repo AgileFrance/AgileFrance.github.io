@@ -58,13 +58,13 @@ Les ressources de l’association comprennent :
 
 L’association est dirigée par un Bureau de 5 membres, élu pour 2 années par l’Assemblée générale. Les membres du Bureau organisent leur travail selon les principes agiles.
 
-L’élection se fait par la candidature de listes de 5 membres, décrites par une profession de foi lue lors de l'Assemblée générale. Ces listes sont soumises au vote des adhérent·e·s, qui désignent celle élue par vote majoritaire simple.
+L’élection se fait par la candidature de listes de 5 membres, décrites par une profession de foi lue lors de l'Assemblée générale. Ces listes sont soumises au vote des adhérent·e·s, qui désignent celle élue par jugement majoritaire.
 
-Le Bureau désigne par vote majoritaire simple l’un de ses membres comme responsable juridique. Cette nomination est ajoutée au compte-rendu de l'Assemblée générale.
+Le Bureau désigne par scrutin majoritaire simple l’un de ses membres comme responsable juridique. Cette nomination est ajoutée au compte-rendu de l'Assemblée générale.
 
 Les membres sont rééligibles.
 
-En cas de cessation d’activité d’un des membres du Bureau, un·e autre membre de l’association peut être présenté·e à la plus prochaine assemblée générale.
+En cas de cessation d’activité d’un des membres du Bureau, un·e autre membre de l’association peut être présenté·e à la plus prochaine assemblée générale. Si ce membre n’est pas ratifié au scrutin majoritaire simple, des candidatures individuelles peuvent être également présentées par d’autres membres. Le membre est alors élu·e par jugement majoritaire.
 Le mandat des membres remplaçants prend fin en même temps que celui des autres membres du Bureau.
 
 
