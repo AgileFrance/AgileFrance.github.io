@@ -102,9 +102,12 @@ Ce Règlement intérieur peut être modifié par vote majoritaire simple du Bure
 
 ## Article 14 : Dissolution
 
+Le Bureau peut proposer la dissolution de l'association lors d'une Assemblée générale. Cette dissolution est validée par une majorité des deux tiers des membres.
 
+Si la dissolution est validée, un ou plusieurs liquidateurs sont nommés par celle-ci et l’actif, s’il y a lieu, est dévolu conformément à l’article 9 de la loi du 1ᵉ juillet 1901 et du décret du 16 août 1901.
 
-En cas de dissolution prononcée par les deux tiers au moins des membres présents à l’assemblée générale, un ou plusieurs liquidateurs sont nommés par celle-ci et l’actif, s’il y a lieu, est dévolu conformément à l’article 9 de la loi du 1ᵉ juillet 1901 et du décret du 16 août 1901.
+Si la dissolution est rejetée, le Bureau est considéré comme démissionnaire. Des élections anticipées ont lieu immédiatement. Si aucune liste n’est formée, le remplacement se fait en considérant les membres du Bureau comme tous individuellement en cessation.
+
 - - - -
 
 Fait à Paris, le 25 mai 2009
