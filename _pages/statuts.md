@@ -36,7 +36,7 @@ Les membres bienfaiteurs sont des personnes physiques ou morales s’acquittant 
 
 ## Article 6 : Adhésion
 
-Est admise au sein de l’association toute personne qui s’est régulièrement acquittée de sa cotisation selon la procédure alors définie par le Règlement Intérieur.
+Est admise au sein de l’association toute personne qui s’est régulièrement acquittée de sa cotisation selon la procédure définie par le Règlement intérieur et qui n'a pas été radiée dans les 12 derniers mois.
 
 ## Article 7 : Cessation
 
