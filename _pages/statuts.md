@@ -44,7 +44,8 @@ La qualité de membre se perd par :
 
 a) la démission ;
 b) le décès ;
-c) la radiation prononcée par le Bureau pour un non-paiement de la cotisation ou pour motif grave, l’intéressé ayant été invité, par courrier simple (y compris par voie électronique) pour les motifs de non-paiement, par lettre recommandée pour les autres motifs, à fournir des explications devant le Bureau.
+c) le non-paiement de la cotisation ;
+d) la radiation prononcée par le Bureau pour comportement contraire aux statuts, au Règlement intérieur, ou pour motif grave. L’intéressé·e sera alors invité par voie électronique ou par courrier à fournir des explications devant le Bureau sous deux semaines, et la radiation sera ratifiée par l'Assemblée générale à majorité des deux tiers.
 
 ## Article 8 : Ressources
 
