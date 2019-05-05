@@ -27,7 +27,7 @@ Les initiatives sont le principal moyen - les exceptions devant rester rares - p
 
 ### Article 2
 
-L’association apporte aux initiatives son concours administratif, et s’engage à émettre les factures, recouvrer les règlements et régler les fournisseurs. En contrepartie, les organisateurs d’une initiative s’engagent:
+L’association apporte aux initiatives son concours administratif, et s’engage à émettre les factures, recouvrer les règlements et régler les fournisseurs. En contrepartie, l’équipe d’organisation d’une initiative s’engage:
 
 - à oeuvrer dans l’intérêt de la communauté des praticiens agiles, sans favoriser un acteur particulier
 - à fournir un budget clair et complet
@@ -39,10 +39,10 @@ L’association se réserve le droit de ne pas soutenir une initiative dont le b
 
 ### Article 3
 
-Dans le cas où le budget d’une Initiative est excédentaire, l’association établira à l’issue de l’événement, ou lors de l’AG annuelle, ou à une date convenue avec les organisateurs, son résultat financier.
+Dans le cas où le budget d’une Initiative est excédentaire, l’association établira à l’issue de l’événement, ou lors de l’AG annuelle, ou à une date convenue avec l’équipe d’organisation, son résultat financier.
 
-Les organisateurs peuvent alors décider de reconduire ou de terminer leur partenariat avec l’association.
+L’équipe d’organisation peuvent alors décider de reconduire ou de terminer leur partenariat avec l’association.
 
-Si les organisateurs décident de poursuivre ce partenariat, l’association s’engage à affecter cet excédent financier en priorité à la poursuite de l’initiative, mais sera autorisée par les organisateurs à mutualiser ces fonds. Les excédents financiers constatés avant cette décision deviennent donc propriété de l’association.
+Si l’équipe d’organisation décide de poursuivre ce partenariat, l’association s’engage à affecter cet excédent financier en priorité à la poursuite de l’initiative, mais sera autorisée par l’équipe d’organisation à mutualiser ces fonds. Les excédents financiers constatés avant cette décision deviennent donc propriété de l’association.
 
-Si les organisateurs décident de terminer ce partenariat, l’association s’engage à transmettre, à toute structure juridique **sans but lucratif** qui sera unanimement désignée par les organisateurs, une somme correspondant à l’excédent financier **le plus récemment constaté**. L’association se dégagera, ce faisant, de toute obligation vis-à-vis des organisateurs.
+Si l’équipe d’organisation décide de terminer ce partenariat, l’association s’engage à transmettre, à toute structure juridique **sans but lucratif** qui sera unanimement désignée par l’équipe d’organisation, une somme correspondant à l’excédent financier **le plus récemment constaté**. L’association se dégagera, ce faisant, de toute obligation vis-à-vis des organisateurs.

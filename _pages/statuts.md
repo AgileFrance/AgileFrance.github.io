@@ -7,13 +7,13 @@ permalink: /statuts
 
 ## Article 1er
 
-Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1ᵉ juillet 1901 et le décret du 16 août 1901, ayant pour titre :
+Il est fondé entre les adhérent·e·s aux présents statuts une association régie par la loi du 1ᵉ juillet 1901 et le décret du 16 août 1901, ayant pour titre :
 
 **Agile France**
 
 ## Article 2: "Mission"
 
-Cette association a pour but de soutenir la communauté Agile francophone et des pays de langue française, dans ses efforts pour faire évoluer l’industrie du logiciel vers plus d’efficacité et d’excellence dans les entreprises, et plus de respect des individus quel que soit leur rôle : développeur, utilisateur, client final… L’association adhère aux quatre valeurs et aux douze principes énoncé·e·s dans le Manifeste Agile.
+Cette association a pour but de soutenir la communauté Agile francophone et des pays de langue française, dans ses efforts pour faire évoluer l’industrie du logiciel vers plus d’efficacité et d’excellence dans les entreprises, et plus de respect des individus quel que soit leur rôle : développement, utilisation, commanditaire… L’association adhère aux quatre valeurs et aux douze principes énoncés dans le Manifeste Agile.
 
 A ces fins, l’association entreprend toutes actions de promotion, de diffusion et d’éducation ayant trait aux pratiques dites Agiles et aux approches et méthodes regroupant de telles pratiques; elle intervient également pour favoriser l’évolution professionnelle des personnes utilisant ces pratiques.
 
