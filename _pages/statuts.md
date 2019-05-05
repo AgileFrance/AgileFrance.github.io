@@ -13,9 +13,9 @@ Il est fondé entre les adhérents aux présents statuts une association régie 
 
 ## Article 2 : Mission
 
-Cette association a pour but de soutenir la communauté Agile francophone et des pays de langue française, dans ses efforts pour faire évoluer l’industrie du logiciel vers plus d’efficacité et d’excellence dans les entreprises, et plus de respect des individus quel que soit leur rôle : développeur, utilisateur, client final… L’association adhère aux quatre valeurs et aux douze principes énoncé·e·s dans le Manifeste Agile.
+Cette association a pour but de soutenir la communauté agile francophone et des pays de langue française, dans ses efforts pour faire évoluer l’industrie du logiciel vers plus d’efficacité et d’excellence dans les entreprises, et plus de respect des individus quel que soit leur rôle : développeur, utilisateur, client final… L’association adhère aux quatre valeurs et aux douze principes énoncé·e·s dans le Manifeste agile.
 
-À ces fins, l’association entreprend toutes actions de promotion, de diffusion et d’éducation ayant trait aux pratiques dites Agiles et aux approches et méthodes regroupant de telles pratiques ; elle intervient également pour favoriser l’évolution professionnelle des personnes utilisant ces pratiques.
+À ces fins, l’association entreprend toutes actions de promotion, de diffusion et d’éducation ayant trait aux pratiques dites agiles et aux approches et méthodes regroupant de telles pratiques ; elle intervient également pour favoriser l’évolution professionnelle des personnes utilisant ces pratiques.
 
 ## Article 3 : Siège
 
@@ -59,7 +59,7 @@ L’association est dirigée par un Bureau de 5 membres, élus pour 2 années pa
 
 En cas de vacances, le Bureau pourvoit provisoirement au remplacement de ses membres. Il est procédé à leur remplacement définitif par la plus prochaine assemblée générale. Les pouvoirs des membres ainsi élus prennent fin à l’époque où devrait normalement expirer le mandat des membres remplacés.
 
-Les membres du Bureau s’engagent moralement à organiser leur travail le plus possible selon les principes que suivrait une équipe Agile.
+Les membres du Bureau s’engagent moralement à organiser leur travail le plus possible selon les principes que suivrait une équipe agile.
 
 ## Article 10 : Assemblée générale (AG)
 
