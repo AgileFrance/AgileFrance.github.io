@@ -13,7 +13,7 @@ Il est fondé entre les adhérents aux présents statuts une association régie 
 
 ## Article 2 : Mission
 
-Cette association soutient la communauté agile francophone dans ses efforts pour faire évoluer l’industrie du logiciel vers plus d’efficacité, d’excellence, et de respect de tous les individus qui participent à la production. L’association adhère aux quatre valeurs et aux douze principes énoncé·e·s dans le Manifeste agile.
+Cette association soutient la communauté agile francophone dans ses efforts pour faire évoluer l’industrie du numérique vers plus d’efficacité, d’excellence, et de respect de tous les individus qui participent à la production. L’association adhère aux quatre valeurs et aux douze principes énoncé·e·s dans le Manifeste agile.
 
 Pour cela, l’association entreprend et soutient toutes actions de promotion, de diffusion et d’éducation ayant trait aux concepts et pratiques dites agiles ; elle intervient également pour favoriser l’évolution professionnelle des personnes utilisant ces pratiques.
 
