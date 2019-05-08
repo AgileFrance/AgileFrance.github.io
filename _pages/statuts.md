@@ -7,7 +7,7 @@ permalink: /statuts
 
 ## Article 1 : Titre
 
-Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1ᵉ juillet 1901 et le décret du 16 août 1901, ayant pour titre :
+Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1<sup>er</sup> juillet 1901 et le décret du 16 août 1901, ayant pour titre :
 
 **Agile France**
 
@@ -84,7 +84,7 @@ Un Règlement Intérieur peut être établi par le Bureau et modifié par vote m
 
 ## Article 13 : Dissolution
 
-En cas de dissolution prononcée par les deux tiers au moins des membres présents à l’assemblée générale, un ou plusieurs liquidateurs sont nommés par celle-ci et l’actif, s’il y a lieu, est dévolu conformément à l’article 9 de la loi du 1ᵉ juillet 1901 et du décret du 16 août 1901.
+En cas de dissolution prononcée par les deux tiers au moins des membres présents à l’assemblée générale, un ou plusieurs liquidateurs sont nommés par celle-ci et l’actif, s’il y a lieu, est dévolu conformément à l’article 9 de la loi du 1<sup>er</sup> juillet 1901 et du décret du 16 août 1901.
 
 Fait à Paris, le 25 mai 2009
 
