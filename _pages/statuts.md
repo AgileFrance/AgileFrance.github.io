@@ -64,7 +64,7 @@ Le Bureau désigne par scrutin majoritaire simple l’un de ses membres comme re
 
 Les membres sont rééligibles.
 
-En cas de cessation d’activité d’un des membres du Bureau, un·e autre membre de l’association peut être présenté·e à la plus prochaine assemblée générale. Si ce membre n’est pas ratifié au scrutin majoritaire simple, des candidatures individuelles peuvent être également présentées par d’autres membres. Le membre est alors élu·e par jugement majoritaire.
+En cas de cessation d’activité d’un des membres du Bureau, un·e autre membre de l’association peut être présenté·e à la plus prochaine assemblée générale. Si ce membre n’est pas ratifié au scrutin majoritaire simple, des candidatures individuelles peuvent être également présentées par d’autres membres. La ou le membre est alors élu·e par jugement majoritaire.
 Le mandat des membres remplaçants prend fin en même temps que celui des autres membres du Bureau.
 
 
