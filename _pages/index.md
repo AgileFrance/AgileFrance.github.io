@@ -14,6 +14,11 @@ Une initiative soutenue par l'association bénéficie librement du [matériel](/
 
 # Soutiens récents
 
+## 2019
+
+- [Conférence Agile France](https://2019.conf.agile-france.org)
+- [Agile Open France](http://agileopenfrance.com/)
+
 ## 2018
 
 - [Conférence Agile France](https://2018.conf.agile-france.org)
