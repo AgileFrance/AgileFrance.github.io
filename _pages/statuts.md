@@ -36,7 +36,7 @@ Les membres bienfaiteurs sont des personnes physiques ou morales s’acquittant 
 
 ## Article 6 : Adhésion
 
-Est admise au sein de l’association toute personne qui s’est régulièrement acquittée de sa cotisation selon la procédure définie par le Règlement intérieur et qui n'a pas été radiée dans les 12 derniers mois.
+Est admise au sein de l’association toute personne qui s’est régulièrement acquittée de sa cotisation selon la procédure définie par le Règlement intérieur et qui n’est pas soumise à une exclusion consécutive à une radiation.
 
 ## Article 7 : Cessation
 
@@ -45,7 +45,7 @@ La qualité de membre se perd par :
 a) la démission ;
 b) le décès ;
 c) le non-paiement de la cotisation ;
-d) la radiation prononcée par le Bureau pour comportement contraire aux statuts, au Règlement intérieur, ou pour motif grave. L’intéressé·e sera alors invité par voie électronique ou par courrier à fournir des explications devant le Bureau sous deux semaines, et la radiation sera ratifiée par l'Assemblée générale à majorité des deux tiers.
+d) la radiation prononcée par le Bureau pour comportement contraire aux statuts, au Règlement intérieur, ou pour motif grave. Cette radiation est assortie d’une durée d’exclusion d’un minimum d’un mois pendant laquelle la réinscription est impossible. L’intéressé·e sera alors invité par voie électronique ou par courrier à fournir des explications devant le Bureau sous deux semaines. La radiation et la période d’exclusion seront ratifiées par l'Assemblée générale à majorité des deux tiers.
 
 ## Article 8 : Ressources
 
