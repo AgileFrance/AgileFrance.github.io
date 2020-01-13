@@ -19,30 +19,30 @@ L’adhésion régulière se fait par le site Web de l’association. Les membre
 
 ### Article 1
 
-Tout membre de l’association peut constituer un groupe de travail avec d’autres personnes, membres ou non, aux fins d’une "initiative" soutenue par l’association. Une telle initiative peut être une conférence, un séminaire, un atelier, une publication, ou toute autre activité conforme aux buts de l’association, tels que définis par l’article "Mission" de ses statuts.
+Tout membre de l’association peut constituer un groupe de travail avec d’autres personnes, membres ou non, aux fins d’une “initiative” soutenue par l’association. Une telle initiative peut être une conférence, un séminaire, un atelier, une publication, ou toute autre activité conforme aux buts de l’association, tels que définis par l’article “Mission” de ses statuts.
 
-Pour bénéficier de ce soutien, il faudra fournir à l’association un descriptif de l’initiative, ainsi qu’une liste des organisateurs.
+Pour bénéficier de ce soutien, il faudra fournir à l’association un descriptif de l’initiative, ainsi qu’une liste de l'équipe d'organisation.
 
-Les initiatives sont le principal moyen - les exceptions devant rester rares - par lequel l’association poursuit les objectifs qu’elles s’est fixée (article "Mission" des statuts).
+Les initiatives sont le principal moyen - les exceptions devant rester rares - par lequel l’association poursuit les objectifs qu’elles s’est fixée (article “Mission” des statuts).
 
 ### Article 2
 
-L’association apporte aux initiatives son concours administratif, et s’engage à émettre les factures, recouvrer les règlements et régler les fournisseurs. En contrepartie, les organisateurs d’une initiative s’engagent:
+L’association apporte aux initiatives son concours administratif, et s’engage à émettre les factures, recouvrer les règlements et régler les fournisseurs. En contrepartie, l'équipe d'organisation d’une initiative s’engage:
 
-- à oeuvrer dans l’intérêt de la communauté des praticiens agiles, sans favoriser un acteur particulier
+- à oeuvrer dans l’intérêt de la communauté des praticien·ne·s agiles, sans favoriser un acteur particulier
 - à fournir un budget clair et complet
 - à proposer au public principalement un contenu à vocation non-commerciale
 - si ledit contenu comporte des espaces publicitaires, à ce que ceux-ci soient accessibles à tout "sponsor" payant cette prestation
 - à laisser l’association disposer de tout excédent financier dégagé par l’initiative, en dehors des dispositions de l’article 3
 
-L’association se réserve le droit de ne pas soutenir une initiative dont le budget serait conçu pour être déficitaire ou dont les objectifs ne seraient pas conforme à l’article "Mission" de ses statuts.
+L’association se réserve le droit de ne pas soutenir une initiative dont le budget serait conçu pour être déficitaire ou dont les objectifs ne seraient pas conformes à l’article "Mission" de ses statuts.
 
 ### Article 3
 
-Dans le cas où le budget d’une Initiative est excédentaire, l’association établira à l’issue de l’événement, ou lors de l’AG annuelle, ou à une date convenue avec les organisateurs, son résultat financier.
+Dans le cas où le budget d’une Initiative est excédentaire, l’association établira à l’issue de l’événement, ou lors de l’AG annuelle, ou à une date convenue avec l'équipe d'organisation, son résultat financier.
 
-Les organisateurs peuvent alors décider de reconduire ou de terminer leur partenariat avec l’association.
+L'équipe d'organisation peut alors décider de reconduire ou de terminer son partenariat avec l’association.
 
-Si les organisateurs décident de poursuivre ce partenariat, l’association s’engage à affecter cet excédent financier en priorité à la poursuite de l’initiative, mais sera autorisée par les organisateurs à mutualiser ces fonds. Les excédents financiers constatés avant cette décision deviennent donc propriété de l’association.
+Si l'équipe dorganisation décide de poursuivre ce partenariat, l’association s’engage à affecter cet excédent financier en priorité à la poursuite de l’initiative, mais sera autorisée par l'équipe d'organisation à mutualiser ces fonds. Les excédents financiers constatés avant cette décision deviennent donc propriété de l’association.
 
-Si les organisateurs décident de terminer ce partenariat, l’association s’engage à transmettre, à toute structure juridique **sans but lucratif** qui sera unanimement désignée par les organisateurs, une somme correspondant à l’excédent financier **le plus récemment constaté**. L’association se dégagera, ce faisant, de toute obligation vis-à-vis des organisateurs.
+Si l'équipe d'organisation décide de terminer ce partenariat, l’association s’engage à transmettre, à toute structure juridique **sans but lucratif** qui sera unanimement désignée par l'équipe d'organisation, une somme correspondant à l’excédent financier **le plus récemment constaté**. L’association se dégagera, ce faisant, de toute obligation vis-à-vis de l'équipe d'organisation.
