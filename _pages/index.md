@@ -101,10 +101,10 @@ Les assemblées générales sont les réunions annuelles lors desquelles le bure
 Le bureau de l’association est actuellement composé de :
 
 - [Matti Schneider](https://mattischneider.fr/)
-- [Peggy Avez](http://peggyavez.com/)
 - [Julien Porot](https://linkedin.com/in/julienporot)
-- [Émilie Esposito](https://linkedin.com/in/emilie-esposito)
-- [David Larlet](https://larlet.fr/david/)
+- [Julie Quillé](https://www.linkedin.com/in/juliequille/)
+- [Christophe Robillard](https://twitter.com/krichtof?lang=fr)
+- [Bénédicte Taillebois](https://www.linkedin.com/in/benedictetaillebois/?originalSubdomain=fr)
 
 Les bureaux successifs ont donné des orientations à l’association qui ont construit son histoire.
 
