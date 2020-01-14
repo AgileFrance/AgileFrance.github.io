@@ -13,7 +13,7 @@ Le montant de la cotisation annuelle est fixé à 20 €.
 
 ### Article 2
 
-L’adhésion régulière se fait par le site Web de l’association. Les membres doivent fournir leur état civil, adresse postale et adresse électronique.
+L’adhésion se fait par le site web de l’association. Les membres doivent fournir leur nom, prénom et adresse électronique.
 
 ## II) Initiatives
 
