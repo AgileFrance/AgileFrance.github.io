@@ -27,20 +27,11 @@ Le siège social est fixé à Paris, dans le 12ème arrondissement. Il pourra ê
 
 La durée de l’association est illimitée.
 
-## Article 5 : Membres
-
-L’association se compose de membres actifs, de membres honoraires et de membres bienfaiteurs.
-Les membres actifs s’engagent à régler une cotisation annuelle dont le montant et les modalités, qui peuvent varier en fonction de la qualité desdits membres, sont précisés par le Règlement Intérieur de l’association.
-
-Les membres honoraires, dispensés de cotisation, sont désignés par un vote du Bureau.
-
-Les membres bienfaiteurs sont des personnes physiques ou morales s’acquittant d’une cotisation dont le montant est fixé individuellement par vote du Bureau et qui ne disposent pas d’un droit de vote aux assemblées générales.
-
-## Article 6 : Adhésion
+## Article 5 : Adhésion
 
 Est admise au sein de l’association toute personne qui s’est régulièrement acquittée de sa cotisation selon la procédure alors définie par le Règlement Intérieur.
 
-## Article 7 : Cessation
+## Article 6 : Cessation
 
 La qualité de membre se perd par :
 
@@ -49,7 +40,7 @@ b) le décès ;
 c) le non-paiement de la cotisation ;
 d) la radiation prononcée par le Bureau pour motif grave. Cette radiation est assortie d’une durée d’exclusion d’un minimum d’un mois pendant laquelle la réinscription est impossible. L’intéressé·e sera alors invité·e par voie électronique ou par courrier à fournir des explications devant le Bureau sous deux semaines. La radiation et la période d’exclusion seront ratifiées par l’Assemblée générale à majorité des deux tiers.
 
-## Article 8 : Ressources
+## Article 7 : Ressources
 
 Les ressources de l’association comprennent :
 
@@ -57,7 +48,7 @@ Les ressources de l’association comprennent :
 - les subventions des acteurs publics ;
 - toutes recettes autorisées par la Loi.
 
-## Article 9 : Bureau
+## Article 8 : Bureau
 
 L’association est dirigée par un Bureau de 5 membres, élu pour 2 années par l’Assemblée générale. Les membres du Bureau organisent leur travail selon les principes agiles.
 
@@ -70,8 +61,8 @@ Les membres sont rééligibles.
 En cas de cessation d’activité d’un des membres du Bureau, un·e autre membre de l’association peut être présenté·e à la plus prochaine assemblée générale. Si ce membre n’est pas ratifié au scrutin majoritaire simple, des candidatures individuelles peuvent être également présentées par d’autres membres. La ou le membre est alors élu·e par jugement majoritaire.
 Le mandat des membres remplaçants prend fin en même temps que celui des autres membres du Bureau.
 
+## Article 9 : Assemblée générale (AG)
 
-## Article 10 : Assemblée générale (AG)
 L’Assemblée générale comprend tous les membres de l’association.
 
 Deux semaines au moins avant la date fixée, les membres de l’association sont convoqués par le Bureau. L’ordre du jour est indiqué sur les convocations.
@@ -85,25 +76,25 @@ Les décisions en Assemblée générale sont prises à la majorité des membres 
 
 Un compte-rendu est signé par le Bureau et rendu accessible aux membres sur le site internet de l'association après chaque Assemblée générale.
 
-## Article 11 : Assemblée générale ordinaire (AGO)
+## Article 10 : Assemblée générale ordinaire (AGO)
 
 L’Assemblée générale ordinaire se réunit une fois par an.
 
 La période habituelle est définie dans le Règlement intérieur.
 
-## Article 12 : Assemblée générale extraordinaire (AGX)
+## Article 11 : Assemblée générale extraordinaire (AGX)
 
 Le Bureau peut convoquer une Assemblée générale extraordinaire en plus de l'AGO.
 
 Le Bureau doit convoquer une AGX sur demande de la majorité des membres.
 
-## Article 13 : Règlement intérieur
+## Article 12 : Règlement intérieur
 
 Un Règlement intérieur est établi par le Bureau. Il fixe les divers points non prévus par les statuts, notamment ceux qui ont trait à l’administration interne de l’association. Tout point qui contredirait les statuts est considéré comme nul.
 
 Ce Règlement intérieur peut être modifié par vote majoritaire simple du Bureau. Les changements sont ratifiés à la prochaine Assemblée générale.
 
-## Article 14 : Dissolution
+## Article 13 : Dissolution
 
 En cas de dissolution prononcée par les deux tiers au moins des membres présents à l’assemblée générale, un ou plusieurs liquidateurs sont nommés par celle-ci et l’actif, s’il y a lieu, est dévolu conformément à l’article 9 de la loi du 1<sup>er</sup> juillet 1901 et du décret du 16 août 1901.
 
