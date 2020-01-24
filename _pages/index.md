@@ -101,7 +101,7 @@ Les assemblées générales sont les réunions annuelles lors desquelles le bure
 Le bureau de l’association est actuellement composé de :
 
 - [Matti Schneider](https://mattischneider.fr/)
-- [Julien Porot](https://linkedin.com/in/julienporot)
+- Julien Porot
 - [Julie Quillé](https://www.linkedin.com/in/juliequille/)
 - [Christophe Robillard](https://twitter.com/krichtof?lang=fr)
 - Bénédicte Taillebois
