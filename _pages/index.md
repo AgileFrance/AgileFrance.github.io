@@ -104,7 +104,7 @@ Le bureau de l’association est actuellement composé de :
 - [Julien Porot](https://linkedin.com/in/julienporot)
 - [Julie Quillé](https://www.linkedin.com/in/juliequille/)
 - [Christophe Robillard](https://twitter.com/krichtof?lang=fr)
-- [Bénédicte Taillebois](https://www.linkedin.com/in/benedictetaillebois/?originalSubdomain=fr)
+- Bénédicte Taillebois
 
 Les bureaux successifs ont donné des orientations à l’association qui ont construit son histoire.
 
