@@ -61,9 +61,9 @@ Les ressources de l’association comprennent :
 
 L’association est dirigée par un Bureau de 5 membres, élu pour 2 années par l’Assemblée générale. Les membres du Bureau organisent leur travail selon les principes agiles.
 
-L’élection se fait par la candidature de listes de 5 membres, décrites par une profession de foi lue lors de l'Assemblée générale. Ces listes sont soumises au vote des adhérent·e·s, qui désignent celle élue par jugement majoritaire.
+L’élection se fait par la candidature de listes de 5 membres, décrites par une profession de foi lue lors de l'Assemblée générale. Ces listes sont soumises au vote des adhérent·e·s, qui désignent celle élue par jugement majoritaire[<sup>2</sup>](#references).
 
-Le Bureau désigne par scrutin majoritaire simple l’un de ses membres comme responsable juridique. Cette nomination est ajoutée au compte-rendu de l'Assemblée générale.
+Le Bureau désigne par scrutin majoritaire simple[<sup>3</sup>](#references) l’un de ses membres comme responsable juridique. Cette nomination est ajoutée au compte-rendu de l'Assemblée générale.
 
 Les membres sont rééligibles.
 
@@ -121,3 +121,5 @@ Pour le bureau,
 ## Références {#references}
 
 1. [⬆️](#article-2-mission) Manifeste agile : [agilemanifesto.org](https://agilemanifesto.org/iso/fr/manifesto.html)
+2. [⬆️](#article-9-bureau) Le jugement majoritaire est un système de vote développé par deux chercheurs du CNRS. Chaque électeur attribue à chaque candidat·e une mention « Très bien », « Bien », « Assez bien », « Passable », « Insuffisant » ou « À Rejeter ». Le candidat·e élu·e est celui qui obtient la meilleure mention soutenue par une majorité. Au cas où deux candidat·e·s ont la même mention majoritaire, celui avec le plus d'électeurs lui attribuant strictement plus que sa mention majoritaire gagne. Ce dispositif est bien plus clair dans sa [version illustrée](http://jugementmajoritaire2017.com/#bd).
+3. [⬆️](#article-9-bureau) Le scrutin majoritaire consiste à sélectionner le candidat·e ayant le plus de voix, chaque électeur ne pouvant voter que pour un seul nom.
