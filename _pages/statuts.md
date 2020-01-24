@@ -13,7 +13,7 @@ Il est fondé entre les adhérents aux présents statuts une association régie 
 
 ## Article 2 : Mission
 
-Cette association a pour but de soutenir la communauté agile francophone et des pays de langue française, dans ses efforts pour faire évoluer l’industrie du logiciel vers plus d’efficacité et d’excellence dans les entreprises, et plus de respect des individus quel que soit leur rôle : développeur, utilisateur, client final… L’association adhère aux quatre valeurs et aux douze principes énoncé·e·s dans le Manifeste agile.
+Cette association a pour but de soutenir la communauté agile francophone et des pays de langue française, dans ses efforts pour faire évoluer l’industrie du logiciel vers plus d’efficacité et d’excellence dans les entreprises, et plus de respect des individus quel que soit leur rôle : développeur, utilisateur, client final… L’association adhère aux quatre valeurs et aux douze principes énoncé·e·s dans le Manifeste agile[<sup>1</sup>](#references).
 
 À ces fins, l’association entreprend toutes actions de promotion, de diffusion et d’éducation ayant trait aux pratiques dites agiles et aux approches et méthodes regroupant de telles pratiques ; elle intervient également pour favoriser l’évolution professionnelle des personnes utilisant ces pratiques.
 
@@ -93,3 +93,10 @@ Amendé à Paris, le 26 juin 2012 (changement d'adresse)
 Amendé à Paris, le 6 mars 2018 (changement d'adresse, modalités de vote)
 
 Pour le bureau,
+
+
+- - - -
+
+## Références {#references}
+
+1. [⬆️](#article-2-mission) Manifeste agile : [agilemanifesto.org](https://agilemanifesto.org/iso/fr/manifesto.html)
