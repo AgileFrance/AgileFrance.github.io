@@ -29,7 +29,7 @@ La durée de l’association est illimitée.
 
 ## Article 5 : Adhésion
 
-Est admise au sein de l’association toute personne qui s’est régulièrement acquittée de sa cotisation selon la procédure alors définie par le Règlement Intérieur.
+Est admise au sein de l’association toute personne qui s’est régulièrement acquittée de sa cotisation selon la procédure alors définie par le Règlement Intérieur et qui n’est pas soumise à une exclusion consécutive à une radiation.
 
 ## Article 6 : Cessation
 
