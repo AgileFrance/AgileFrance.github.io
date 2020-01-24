@@ -98,11 +98,10 @@ Si la dissolution est votée à la majorité des trois quarts des membres adhér
 Si la dissolution est rejetée, aucune autre proposition de dissolution ne pourra être proposée avant la date anniversaire de la proposition de dissolution initialement validée.
 
 
-Fait à Paris, le 25 mai 2009
-
-Amendé à Paris, le 26 juin 2012 (changement d'adresse)
-
-Amendé à Paris, le 6 mars 2018 (changement d'adresse, modalités de vote)
+- Fait à Paris, le 25 mai 2009
+- Amendé à Paris, le 26 juin 2012 (changement d'adresse)
+- Amendé à Paris, le 6 mars 2018 (changement d'adresse, modalités de vote)
+- Amendé à Paris, le 24 janvier 2020 (sur la base de la réécriture votée le 6 juin 2019)
 
 Pour le bureau,
 
