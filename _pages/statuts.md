@@ -44,9 +44,10 @@ Est admise au sein de l’association toute personne qui s’est régulièrement
 
 La qualité de membre se perd par :
 
-a) la démission ;
-b) le décès ;
-c) la radiation prononcée par le Bureau pour un non-paiement de la cotisation ou pour motif grave, l’intéressé ayant été invité, par courrier simple (y compris par voie électronique) pour les motifs de non-paiement, par lettre recommandée pour les autres motifs, à fournir des explications devant le Bureau.
+a) la démission ;
+b) le décès ;
+c) le non-paiement de la cotisation ;
+d) la radiation prononcée par le Bureau pour motif grave. Cette radiation est assortie d’une durée d’exclusion d’un minimum d’un mois pendant laquelle la réinscription est impossible. L’intéressé·e sera alors invité·e par voie électronique ou par courrier à fournir des explications devant le Bureau sous deux semaines. La radiation et la période d’exclusion seront ratifiées par l’Assemblée générale à majorité des deux tiers.
 
 ## Article 8 : Ressources
 
