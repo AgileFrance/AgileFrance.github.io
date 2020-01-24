@@ -96,7 +96,13 @@ Ce Règlement intérieur peut être modifié par vote majoritaire simple du Bure
 
 ## Article 13 : Dissolution
 
-En cas de dissolution prononcée par les deux tiers au moins des membres présents à l’assemblée générale, un ou plusieurs liquidateurs sont nommés par celle-ci et l’actif, s’il y a lieu, est dévolu conformément à l’article 9 de la loi du 1<sup>er</sup> juillet 1901 et du décret du 16 août 1901.
+La dissolution de l’association peut être mise à l’ordre du jour d’une Assemblée générale.
+
+Si la dissolution est votée à la majorité des trois quarts des membres présents, une Assemblée Générale Extraordinaire devra être fixée par le Bureau dans les 3 à 6 mois. Lors de cette AGX, la dissolution sera traitée comme premier point de l’ordre du jour.
+
+Si la dissolution est votée à la majorité des trois quarts des membres adhérents depuis plus de six mois, un ou plusieurs liquidateurs sont nommés par celle-ci et l’actif, s’il y a lieu, est dévolu conformément à l’article 9 de la loi du 1ᵉ juillet 1901 et du décret du 16 août 1901.
+Si la dissolution est rejetée, aucune autre proposition de dissolution ne pourra être proposée avant la date anniversaire de la proposition de dissolution initialement validée.
+
 
 Fait à Paris, le 25 mai 2009
 
