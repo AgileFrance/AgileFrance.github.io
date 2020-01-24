@@ -88,13 +88,7 @@ Le Bureau peut convoquer une Assemblée générale extraordinaire en plus de l'A
 
 Le Bureau doit convoquer une AGX sur demande de la majorité des membres.
 
-## Article 12 : Règlement intérieur
-
-Un Règlement intérieur est établi par le Bureau. Il fixe les divers points non prévus par les statuts, notamment ceux qui ont trait à l’administration interne de l’association. Tout point qui contredirait les statuts est considéré comme nul.
-
-Ce Règlement intérieur peut être modifié par vote majoritaire simple du Bureau. Les changements sont ratifiés à la prochaine Assemblée générale.
-
-## Article 13 : Dissolution
+## Article 12 : Dissolution
 
 La dissolution de l’association peut être mise à l’ordre du jour d’une Assemblée générale.
 
