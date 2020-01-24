@@ -21,7 +21,7 @@ Pour cela, l’association entreprend et soutient toutes actions de promotion, d
 
 ## Article 3 : Siège
 
-Le siège social est fixé à Paris, dans le 12ème arrondissement. Il pourra être transféré par simple décision du Bureau. Le transfert sera ratifié par la prochaine Assemblée générale à majorité simple.
+Le siège social est fixé à Paris, dans le 12ème arrondissement. Il pourra être transféré par simple décision du Bureau. Le transfert sera ratifié par la prochaine Assemblée générale par scrutin majoritaire simple.
 
 ## Article 4 : Durée
 
@@ -29,7 +29,7 @@ La durée de l’association est illimitée.
 
 ## Article 5 : Adhésion
 
-Est admise au sein de l’association toute personne qui s’est régulièrement acquittée de sa cotisation selon la procédure alors définie par le Règlement Intérieur et qui n’est pas soumise à une exclusion consécutive à une radiation.
+Est considérée comme membre toute personne physique s’étant acquitté de sa cotisation selon la procédure définie dans le Règlement intérieur et qui n’est pas soumise à une exclusion consécutive à une radiation.
 
 ## Article 6 : Cessation
 
