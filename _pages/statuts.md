@@ -35,10 +35,10 @@ Est considérée comme membre toute personne physique s’étant acquitté de sa
 
 La qualité de membre se perd par :
 
-a) la démission ;
-b) le décès ;
-c) le non-paiement de la cotisation ;
-d) la radiation prononcée par le Bureau pour motif grave. Cette radiation est assortie d’une durée d’exclusion d’un minimum d’un mois pendant laquelle la réinscription est impossible. L’intéressé·e sera alors invité·e par voie électronique ou par courrier à fournir des explications devant le Bureau sous deux semaines. La radiation et la période d’exclusion seront ratifiées par l’Assemblée générale à majorité des deux tiers.
+1. la démission ;
+2. le décès ;
+3. le non-paiement de la cotisation ;
+4. la radiation prononcée par le Bureau pour motif grave. Cette radiation est assortie d’une durée d’exclusion d’un minimum d’un mois pendant laquelle la réinscription est impossible. L’intéressé·e sera alors invité·e par voie électronique ou par courrier à fournir des explications devant le Bureau sous deux semaines. La radiation et la période d’exclusion seront ratifiées par l’Assemblée générale à majorité des deux tiers.
 
 ## Article 7 : Ressources
 
