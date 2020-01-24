@@ -5,91 +5,111 @@ permalink: /statuts
 
 # Statuts
 
-## Article 1er
+## Article 1 : Titre
 
-Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1ᵉ juillet 1901 et le décret du 16 août 1901, ayant pour titre :
+Il est fondé entre les adhérent‧e‧s aux présents statuts une association régie par la loi du 1<sup>er</sup> juillet 1901 et le décret du 16 août 1901, ayant pour titre :
 
 **Agile France**
 
-## Article 2: "Mission"
+## Article 2 : Mission
 
-Cette association a pour but de soutenir la communauté Agile francophone et des pays de langue française, dans ses efforts pour faire évoluer l’industrie du logiciel vers plus d’efficacité et d’excellence dans les entreprises, et plus de respect des individus quel que soit leur rôle : développeur, utilisateur, client final… L’association adhère aux quatre valeurs et aux douze principes énoncé·e·s dans le Manifeste Agile.
+Cette association soutient la communauté agile francophone dans ses efforts pour faire évoluer la société vers plus d’efficacité, d’excellence, et de respect de tous les individus.
 
-A ces fins, l’association entreprend toutes actions de promotion, de diffusion et d’éducation ayant trait aux pratiques dites Agiles et aux approches et méthodes regroupant de telles pratiques; elle intervient également pour favoriser l’évolution professionnelle des personnes utilisant ces pratiques.
+L’association adhère aux quatre valeurs et aux douze principes énoncés dans le Manifeste agile[<sup>1</sup>](#references).
 
-## Article 3: "Siège"
+Pour cela, l’association entreprend et soutient toutes actions de promotion, de diffusion et d’éducation ayant trait aux concepts et pratiques dites agiles ; elle intervient également pour favoriser l’évolution professionnelle des personnes utilisant ces pratiques.
 
-Le siège social est fixé à Paris, dans le 12ème arrondissement. Il pourra être transféré par simple décision du Bureau ; la ratification par l’assemblée générale sera nécessaire.
+## Article 3 : Siège
 
-## Article 4: "Durée"
+Le siège social est fixé à Paris, dans le 12ème arrondissement. Il pourra être transféré par simple décision du Bureau. Le transfert sera ratifié par la prochaine Assemblée générale par scrutin majoritaire simple.
+
+## Article 4 : Durée
 
 La durée de l’association est illimitée.
 
-## Article 5: "Membres"
+## Article 5 : Adhésion
 
-L’association se compose de membres actifs, de membres honoraires et de membres bienfaiteurs.
-Les membres actifs s’engagent à régler une cotisation annuelle dont le montant et les modalités, qui peuvent varier en fonction de la qualité desdits membres, sont précisés par le Règlement Intérieur de l’association.
+Est considérée comme membre toute personne physique s’étant acquitté de sa cotisation selon la procédure définie dans le Règlement intérieur et qui n’est pas soumise à une exclusion consécutive à une radiation.
 
-Les membres honoraires, dispensés de cotisation, sont désignés par un vote du Bureau.
+## Article 6 : Cessation
 
-Les membres bienfaiteurs sont des personnes physiques ou morales s’acquittant d’une cotisation dont le montant est fixé individuellement par vote du Bureau et qui ne disposent pas d’un droit de vote aux assemblées générales.
+La qualité de membre se perd par :
 
-## Article 6: "Adhésion"
+1. la démission ;
+2. le décès ;
+3. le non-paiement de la cotisation ;
+4. la radiation prononcée par le Bureau pour motif grave. Cette radiation est assortie d’une durée d’exclusion d’un minimum d’un mois pendant laquelle la réinscription est impossible. L’intéressé·e sera alors invité·e par voie électronique ou par courrier à fournir des explications devant le Bureau sous deux semaines. La radiation et la période d’exclusion seront ratifiées par l’Assemblée générale à majorité des deux tiers.
 
-Est admise au sein de l’association toute personne qui s’est régulièrement acquittée de sa cotisation selon la procédure alors définie par le Règlement Intérieur.
+## Article 7 : Ressources
 
-## Article 7: "Cessation"
+Les ressources de l’association comprennent :
 
-La qualité de membre se perd par :
+- les cotisations des membres ;
+- les subventions des acteurs publics ;
+- toutes recettes autorisées par la Loi.
 
-a) la démission
-b) le décès
-c) la radiation prononcée par le Bureau pour un non-paiement de la cotisation ou pour motif grave, l’intéressé ayant été invité, par courrier simple (y compris par voie électronique) pour les motifs de non-paiement, par lettre recommandée pour les autres motifs, à fournir des explications devant le Bureau.
+## Article 8 : Bureau
 
-## Article 8: "Ressources"
+L’association est dirigée par un Bureau de 5 membres, élu pour 2 années par l’Assemblée générale. Les membres du Bureau organisent leur travail selon les principes agiles.
 
-Les ressources de l’association comprennent :
+L’élection se fait par la candidature de listes de 5 membres, décrites par une profession de foi lue lors de l'Assemblée générale. Ces listes sont soumises au vote des adhérent·e·s, qui désignent celle élue par jugement majoritaire[<sup>2</sup>](#references).
 
-- les montants des droits d’entrée et des cotisations qui seront fixés par le Conseil d’Administration
-- les subventions de l’Etat, des régions, des départements et des communes, et toutes recettes autorisées par la Loi.
+Le Bureau désigne par scrutin majoritaire simple[<sup>3</sup>](#references) l’un de ses membres comme responsable juridique. Cette nomination est ajoutée au compte-rendu de l'Assemblée générale.
 
-## Article 9: "Bureau"
+Les membres sont rééligibles.
 
-L’association est dirigée par un Bureau de 5 membres, élus pour 2 années par l’assemblée générale. Les membres sont rééligibles. Le Bureau désigne par vote majoritaire simple l’un de ses membres comme responsable juridique.
+En cas de cessation d’activité d’un des membres du Bureau, un·e autre membre de l’association peut être présenté·e à la plus prochaine assemblée générale. Si ce membre n’est pas ratifié au scrutin majoritaire simple, des candidatures individuelles peuvent être également présentées par d’autres membres. La ou le membre est alors élu·e par jugement majoritaire.
+Le mandat des membres remplaçants prend fin en même temps que celui des autres membres du Bureau.
 
-En cas de vacances, le Bureau pourvoit provisoirement au remplacement de ses membres. Il est procédé à leur remplacement définitif par la plus prochaine assemblée générale. Les pouvoirs des membres ainsi élus prennent fin à l’époque où devrait normalement expirer le mandat des membres remplacés.
+## Article 9 : Assemblée générale (AG)
 
-Les membres du Bureau s’engagent moralement à organiser leur travail le plus possible selon les principes que suivrait une équipe Agile.
+L’Assemblée générale comprend tous les membres de l’association.
 
-## Article 10: "AG"
+Deux semaines au moins avant la date fixée, les membres de l’association sont convoqués par le Bureau. L’ordre du jour est indiqué sur les convocations.
 
-L’assemblée générale ordinaire comprend tous les membres de l’association à quelque titre qu’ils y soient affiliés.
-L’assemblée générale ordinaire se réunit chaque année, sans contrainte particulière quant à la période retenue. Quinze jours au moins avant la date fixée, les membres de l’association sont convoqués par les soins d’un membre du bureau. L’ordre du jour est indiqué sur les convocations.
+Le responsable juridique, assisté des autres membres du Bureau, préside l’Assemblée et expose la situation morale de l’association. Le Bureau rend compte de sa gestion et soumet le bilan à l’approbation de l’assemblée par scrutin majoritaire simple.
 
-Le responsable juridique, assisté des membres du bureau, préside l’assemblée et expose la situation morale de l’association.
-Le Bureau rend compte de sa gestion et soumet le bilan à l’approbation de l’assemblée.
+Il procède après épuisement de l’ordre du jour, par vote public, au remplacement des membres sortants.
+Ne devront être traitées, lors de l’Assemblée générale, que les questions soumises à l’ordre du jour.
 
-Il procède après épuisement de l’ordre du jour (si nécessaire), par vote public, au remplacement des membres sortants.
-Ne devront être traitées, lors de l’assemblée générale, que les questions soumises à l’ordre du jour.
+Les décisions en Assemblée générale sont prises à la majorité des membres présents, représentés ou votants à distance par tout moyen précisé dans la convocation.
 
-Les décisions en assemblée générale sont prises à la majorité des membres présents, représentés ou votants à distance par tout moyen étant précisé dans la convocation.
+Un compte-rendu est signé par le Bureau et rendu accessible aux membres sur le site internet de l'association après chaque Assemblée générale.
 
-## Article 11: "AGX"
+## Article 10 : Assemblée générale ordinaire (AGO)
 
-Si besoin est, ou sur demande de la moitié plus un des membres inscrits, le président peut convoquer une assemblée générale extraordinaire, suivant les formalités prévues par l’article 10.
+L’Assemblée générale ordinaire se réunit une fois par an.
 
-## Article 12: "Règlement"
+La période habituelle est définie dans le Règlement intérieur.
 
-Un Règlement Intérieur peut être établi par le Bureau et modifié par vote majoritaire simple du bureau. Ce Règlement Intérieur est destiné à fixer les divers points non prévus par les statuts, notamment ceux qui ont trait à l’administration interne de l’association.
+## Article 11 : Assemblée générale extraordinaire (AGX)
 
-## Article 13: "Dissolution"
+Le Bureau peut convoquer une Assemblée générale extraordinaire en plus de l'AGO.
 
-En cas de dissolution prononcée par les deux tiers au moins des membres présents à l’assemblée générale, un ou plusieurs liquidateurs sont nommés par celle-ci et l’actif, s’il y a lieu, est dévolu conformément à l’article 9 de la loi du 1er juillet 1901 et du décret du 16 août 1901.
+Le Bureau doit convoquer une AGX sur demande de la majorité des membres.
 
-Fait à Paris, le 25 mai 2009
+## Article 12 : Dissolution
 
-Amendé à Paris, le 26 juin 2012 (changement d'adresse)
+La dissolution de l’association peut être mise à l’ordre du jour d’une Assemblée générale.
 
-Amendé à Paris, le 6 mars 2018 (changement d'adresse, modalités de vote)
+Si la dissolution est votée à la majorité des trois quarts des membres présents, une Assemblée Générale Extraordinaire devra être fixée par le Bureau dans les 3 à 6 mois. Lors de cette AGX, la dissolution sera traitée comme premier point de l’ordre du jour.
+
+Si la dissolution est votée à la majorité des trois quarts des membres adhérents depuis plus de six mois, un ou plusieurs liquidateurs sont nommés par celle-ci et l’actif, s’il y a lieu, est dévolu conformément à l’article 9 de la loi du 1ᵉ juillet 1901 et du décret du 16 août 1901.
+Si la dissolution est rejetée, aucune autre proposition de dissolution ne pourra être proposée avant la date anniversaire de la proposition de dissolution initialement validée.
+
+
+- Fait à Paris, le 25 mai 2009
+- Amendé à Paris, le 26 juin 2012 (changement d'adresse)
+- Amendé à Paris, le 6 mars 2018 (changement d'adresse, modalités de vote)
+- Amendé à Paris, le 24 janvier 2020 (sur la base de la réécriture votée le 6 juin 2019)
 
 Pour le bureau,
+
+
+- - - -
+
+## Références {#references}
+
+1. [⬆️](#article-2-mission) Manifeste agile : [agilemanifesto.org](https://agilemanifesto.org/iso/fr/manifesto.html)
+2. [⬆️](#article-8-bureau) Le jugement majoritaire est un système de vote développé par deux chercheurs du CNRS. Chaque électeur attribue à chaque candidat·e une mention « Très bien », « Bien », « Assez bien », « Passable », « Insuffisant » ou « À Rejeter ». Le candidat·e élu·e est celui qui obtient la meilleure mention soutenue par une majorité. Au cas où deux candidat·e·s ont la même mention majoritaire, celui avec le plus d'électeurs lui attribuant strictement plus que sa mention majoritaire gagne. Ce dispositif est bien plus clair dans sa [version illustrée](http://jugementmajoritaire2017.com/#bd).
+3. [⬆️](#article-8-bureau) Le scrutin majoritaire consiste à sélectionner le candidat·e ayant le plus de voix, chaque électeur ne pouvant voter que pour un seul nom.

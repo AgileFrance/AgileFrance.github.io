@@ -32,7 +32,7 @@ L’association apporte aux initiatives son concours administratif, et s’engag
 - œuvrer dans l’intérêt de la communauté des praticien·ne·s agiles, sans favoriser un acteur particulier ;
 - fournir un budget clair et complet ;
 - proposer au public principalement un contenu à vocation non-commerciale ;
-- si ledit contenu comporte des espaces publicitaires, à ce que ceux-ci soient accessibles à tout "sponsor" payant cette prestation ;
+- si ledit contenu comporte des espaces publicitaires, à ce que ceux-ci soient accessibles à tout « sponsor » payant cette prestation ;
 - laisser l’association disposer de tout excédent financier dégagé par l’initiative, en dehors des dispositions de l’article 3.
 
 L’association se réserve le droit de ne pas soutenir une initiative dont le budget serait conçu pour être déficitaire ou dont les objectifs ne seraient pas conformes à l’article « Mission » de ses statuts.
