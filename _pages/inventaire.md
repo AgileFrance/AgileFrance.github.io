@@ -23,6 +23,14 @@ L’association Agile France met à disposition des initiatives soutenues le mat
 
 ![](img/videoprojecteurs.jpeg)
 
+
+### Adaptateurs
+
+- 2 adaptateurs Mini DisplayPort/Thunderbolt vers HDMI (marque VicTsing).
+- 2 adaptateurs DisplayPort vers HDMI (marque Rankie).
+- 2 adaptateurs USB-C vers HDMI et VGA (marque Bauihr).
+- 4 câbles HDMI 2.0 haut débit 3 mètres.
+
 ## Forums ouverts
 
 ### Panneaux indicateurs
