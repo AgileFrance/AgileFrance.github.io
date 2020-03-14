@@ -41,6 +41,7 @@ Vous n’êtes pas certain‧e d’être éligible mais votre initiative est com
 - [Conférence Agile France](https://2019.conf.agile-france.org)
 - [Agile Open France](http://agileopenfrance.com/)
 - [Paris Test Conf](https://paristestconf.com)
+- [Mobilizon](https://joinmobilizon.org) _(subvention)_
 
 ## 2018
 
