@@ -36,11 +36,16 @@ Vous n’êtes pas certain‧e d’être éligible mais votre initiative est com
 
 # Soutiens récents
 
+## 2020
+
+- [Conférence Agile France](https://2020.conf.agile-france.org)
+
 ## 2019
 
 - [Conférence Agile France](https://2019.conf.agile-france.org)
 - [Agile Open France](http://agileopenfrance.com/)
 - [Paris Test Conf](https://paristestconf.com)
+- [Mobilizon](https://joinmobilizon.org) _(subvention)_
 
 ## 2018
 
