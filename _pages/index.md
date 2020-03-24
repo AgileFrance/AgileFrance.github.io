@@ -8,6 +8,12 @@ L’association Agile France se donne pour but de soutenir financièrement, admi
 
 # Demander à être soutenu
 
+## Appel à projets COVID-19
+
+Cet [appel vise à produire du contenu et des outils qui facilitent l'adaptation au confinement](appel-a-projets-covid-19) et est doté de 10 000 € TTC.
+
+## En temps normal
+
 Notre mode de soutien principal consiste en :
 
 1. **Une prise en charge de la complexité administrative.** Nous mettons à disposition une association loi 1901 déjà constituée, domiciliée et immatriculée, un compte bancaire, et des assurances adaptées à la réalisation d’événements.
@@ -39,6 +45,7 @@ Vous n’êtes pas certain‧e d’être éligible mais votre initiative est com
 ## 2020
 
 - [Conférence Agile France](https://2020.conf.agile-france.org)
+- [Appel à projets COVID-19](/appel-a-projets-covid-19)
 
 ## 2019
 
