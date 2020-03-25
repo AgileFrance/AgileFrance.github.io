@@ -38,15 +38,19 @@ En contrepartie, nous nous attendons à ce que :
 6. **Un rapport financier public soit fourni à l’issue du projet.** Il s’agit simplement de deux camemberts qui indiquent d’où viennent vos rentrées d’argent, et quelles sont vos dépenses. [Exemple](http://2017.conf.agile-france.org/docs/bilan-agilefrance-2017.pdf).
 7. **Les éventuels bénéfices soient mutualisés**, ou que vous les utilisiez pour pérenniser votre initiative de manière indépendante.
 
-## [Proposez votre initiative](mailto:bureau@agile-france.org?subject=Soutien)
+Cela vous intéresse ? [Proposez votre initiative](mailto:bureau@agile-france.org?subject=Soutien) !
 
 Vous n’êtes pas certain‧e d’être éligible mais votre initiative est compatible avec nos [statuts](/statuts) et vous vous sentez aligné‧e avec les [intentions du bureau](/bureau/2018) ? [Discutons-en](mailto:bureau@agile-france.org?subject=Demande) ! 😉
 
 
-## [Rejoignez l'association](adhesion)
+# Adhérer
+
+Si vous partagez [nos valeurs](/bureau/2018) et que vous souhaitez soutenir nos efforts, [rejoignez l'association](adhesion) !
+
+La cotisation annuelle coûte 20 €. En adhérant, vous obtenez accès à nos outils de prise de décision collective et donnez du poids aux initiatives soutenues.
 
 
-# Soutiens récents
+# Initiatives soutenues
 
 ## 2020
 
