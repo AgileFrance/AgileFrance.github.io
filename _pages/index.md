@@ -10,7 +10,7 @@ permalink: /
 >
 > Pour cela, l’association entreprend et soutient toutes actions de promotion, de diffusion et d’éducation ayant trait aux concepts et pratiques dites agiles ; elle intervient également pour favoriser l’évolution professionnelle des personnes utilisant ces pratiques.
 
-— Article 2 des [statuts de l’association](/statuts)
+— _Article 2 des [Statuts de l’association](/statuts)_
 
 # Demande de soutien
 
