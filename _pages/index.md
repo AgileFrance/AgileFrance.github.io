@@ -2,7 +2,7 @@
 permalink: /
 ---
 
-# À propos de l’association
+## À propos de l’association
 
 > L’association Agile France soutient la communauté agile francophone dans ses efforts pour faire évoluer la société vers plus d’efficacité, d’excellence, et de respect de tous les individus.
 >
@@ -12,13 +12,11 @@ permalink: /
 
 — _Article 2 des [Statuts de l’association](/statuts)_
 
-# Demande de soutien
-
 ## Appel à projets COVID-19
 
 Cet [appel vise à produire du contenu et des outils qui facilitent l'adaptation au confinement](appel-a-projets-covid-19) et est doté de 10 000 € TTC.
 
-## En temps normal
+## Notre mode d’action
 
 Notre mode de soutien principal consiste en :
 
@@ -43,52 +41,52 @@ Cela vous intéresse ? [Proposez votre initiative](mailto:bureau@agile-france.o
 Vous n’êtes pas certain‧e d’être éligible mais votre initiative est compatible avec nos [statuts](/statuts) et vous vous sentez aligné‧e avec les [intentions du bureau](/bureau/2018) ? [Discutons-en](mailto:bureau@agile-france.org?subject=Demande) ! 😉
 
 
-# Adhérer
+## Adhérer
 
 Si vous partagez [nos valeurs](/bureau/2018) et que vous souhaitez soutenir nos efforts, [rejoignez l'association](adhesion) !
 
 La cotisation annuelle coûte 20 €. En adhérant, vous obtenez accès à nos outils de prise de décision collective et donnez du poids aux initiatives soutenues.
 
 
-# Initiatives soutenues
+## Initiatives soutenues
 
-## 2020
+### 2020
 
 - [Conférence Agile France](https://2020.conf.agile-france.org)
 - [Appel à projets COVID-19](/appel-a-projets-covid-19)
 
-## 2019
+### 2019
 
 - [Conférence Agile France](https://2019.conf.agile-france.org)
 - [Agile Open France](http://agileopenfrance.com/)
 - [Paris Test Conf](https://paristestconf.com)
 - [Mobilizon](https://joinmobilizon.org) _(subvention)_
 
-## 2018
+### 2018
 
 - [Conférence Agile France](https://2018.conf.agile-france.org)
 - [Agile Open France](http://agileopenfrance.com/)
 - [Meetup OPEN Nouvelle-Calédonie](https://www.meetup.com/fr-FR/Meetup-des-professionnels-du-numerique-en-Nouvelle-Caledonie/events/252426773/)
 - [Meetup Systémique et agilité](https://www.meetup.com/fr-FR/Systemique-Agilite-dialogue-pour-transformer-lentreprise/)
 
-## 2017
+### 2017
 
 - [Conférence Agile France](https://2017.conf.agile-france.org)
 - [Agile Open France](https://www.yuticket.com/association-agile-france/810a24b6-2765-400b-aacc-da609cec39be-agile-open-france-2017-aof17.html)
 - [Comparatif de post-its](https://medium.com/@MattiSG/stupid-science-i-compared-23-sticky-notes-to-help-you-spare-wallet-and-planet-fc9b97d88503)
 
-## 2016
+### 2016
 
 - [Conférence Agile France](https://2016.conf.agile-france.org)
 - [Agile Open France](https://www.yuticket.com/association-agile-france/61f3f1b3-9ad7-4c40-b5ca-6316b134853f-agile-open-france-2016-aof16.html)
 - [Geek Camp](https://www.meetup.com/fr-FR/software-craftsmanship-bdx/events/230739321)
 
-## 2015
+### 2015
 
 - [Conférence Agile France](https://2015.conf.agile-france.org)
 - [Agile Open France](https://www.yuticket.com/association-agile-france/c4513d61-5d3b-4996-8fa2-2d76462a7c52-agile-open-france-2015-aof15.html)
 
-## 2014
+### 2014
 
 - [Conférence Agile France](https://2014.conf.agile-france.org)
 - Agile Open France
@@ -97,7 +95,7 @@ La cotisation annuelle coûte 20 €. En adhérant, vous obtenez accès à nos 
 - Lean Camp
 
 
-# Le mot de l’asso
+## Le mot de l’asso
 
 Lors de la conférence AgileFrance a régulièrement eu lieu une prise de parole de l’association. Ces « mots » font partie de son histoire publique.
 
@@ -108,7 +106,7 @@ Lors de la conférence AgileFrance a régulièrement eu lieu une prise de parole
 {% endfor %}
 
 
-# Assemblées générales
+## Assemblées générales
 
 Les assemblées générales sont les réunions annuelles lors desquelles le bureau présente son bilan, où le bureau peut être renouvelé, et où de grandes orientations peuvent être décidées.
 
@@ -119,7 +117,7 @@ Les assemblées générales sont les réunions annuelles lors desquelles le bure
 {% endfor %}
 
 
-# Bureaux
+## Bureaux
 
 Le bureau de l’association est actuellement composé de :
 
@@ -138,7 +136,7 @@ Les bureaux successifs ont donné des orientations à l’association qui ont co
 {% endfor %}
 
 
-# Documents
+## Documents
 
 - [Statuts](/statuts)
 - [Réglement intérieur](/reglement)
