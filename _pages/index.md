@@ -4,9 +4,15 @@ permalink: /
 
 # À propos de l’association
 
-L’association Agile France se donne pour but de soutenir financièrement, administrativement, logistiquement, organisationnellement, communicationnellement, nutritionnellement et psychologiquement des actions visant à promouvoir de près ou de loin les méthodes agiles de développement logiciel, sous toutes formes et pour tous publics, de préférence francophones.
+> L’association Agile France soutient la communauté agile francophone dans ses efforts pour faire évoluer la société vers plus d’efficacité, d’excellence, et de respect de tous les individus.
+>
+> L’association adhère aux quatre valeurs et aux douze principes énoncés dans le [Manifeste agile](https://agilemanifesto.org/iso/fr/manifesto.html).
+>
+> Pour cela, l’association entreprend et soutient toutes actions de promotion, de diffusion et d’éducation ayant trait aux concepts et pratiques dites agiles ; elle intervient également pour favoriser l’évolution professionnelle des personnes utilisant ces pratiques.
 
-# Demander à être soutenu
+— Article 2 des [statuts de l’association](/statuts)
+
+# Demande de soutien
 
 ## Appel à projets COVID-19
 
