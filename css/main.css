@@ -29,8 +29,12 @@ header, main {
 	margin-bottom: 1em;
 }
 
+header {
+	text-align: center;
+}
+
 header img {
-	width: 8em;
+	width: 7em;
 }
 
 img {
