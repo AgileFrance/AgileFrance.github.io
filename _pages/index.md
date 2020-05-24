@@ -54,6 +54,7 @@ La cotisation annuelle coûte 20 €. En adhérant, vous obtenez accès à nos 
 
 - [Conférence Agile France](https://2020.conf.agile-france.org)
 - [Appel à projets COVID-19](/appel-a-projets-covid-19)
+- [frug'AgileFrance]
 
 ### 2019
 
