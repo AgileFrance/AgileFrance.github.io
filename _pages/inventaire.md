@@ -23,6 +23,10 @@ L’association Agile France met à disposition des initiatives soutenues le mat
 
 ![](img/videoprojecteurs.jpeg)
 
+- Acer P1200 (PWD : 727243, SNID : 00500809159).
+- Acer P1200 (PWD : 754281, SNID : 00500731259).
+- Acer P1201 (PWD : 586277, SNID : 10700601759).
+- Acer P1201 (PWD : 265885, SNID : 10700603459).
 
 ### Adaptateurs
 
