@@ -31,3 +31,7 @@ defaults:
       type: mot_conference
     values:
       layout: mot_conference
+
+plugins:
+  - jekyll-postcss
+  - jekyll-purgecss

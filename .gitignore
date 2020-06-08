@@ -10,3 +10,7 @@ Gemfile.lock
 
 # Ruby
 .ruby-gemset
+
+# JS build
+node_modules
+yarn.lock
