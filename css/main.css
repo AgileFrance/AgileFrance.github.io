@@ -24,8 +24,8 @@ small { font-size: 0.833em; }
 header, main {
   max-width: 60em;
   margin-top: 1em;
-  margin-right: auto;
-  margin-left: auto;
+  margin-right: 3em;
+  margin-left: 3em;
   margin-bottom: 1em;
 }
 
@@ -69,3 +69,89 @@ footer {
 footer a {
   color: inherit;
 }
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  background-color: #4299e1;
+  padding: 1.5rem;
+  padding-right: 3em;
+  padding-left: 3em;
+}
+
+nav .brand {
+  display: flex;
+  margin-right: 1.6rem;
+  --text-opacity: 1;
+  color: white;
+  font-weight: 600;
+  font-size: 1.25rem;
+  letter-spacing: -0.025em;
+}
+
+nav .menu {
+  width: 100%;
+  display: block;
+  flex-grow: 1;
+
+}
+
+@media (min-width: 1024px) {
+  nav .menu {
+    display: flex;
+    width: auto;
+    align-items: center;
+  }
+  nav .menu .menu-item {
+    flex-grow: 1;
+  }
+}
+
+nav .menu .menu-item a {
+  text-decoration: none;
+  font-size: 0.875rem;
+  display: block;
+  margin-top: 1rem;
+  margin-right: 1rem;
+  color: white;
+}
+
+nav .menu .menu-item a:hover {
+  --text-opacity: 1;
+  color: rgba(178, 245, 234, var(--text-opacity));
+}
+
+.btn {
+  padding: 0.5rem 1rem;
+  margin-top: 1rem;
+  line-height: 1;
+  font-size: 0.875rem;
+  color: white;
+  display: inline-block;
+  border: solid 1px;
+  border-radius: 0.25rem;
+  border-color: white;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color: white;
+  --text-opacity: 1;
+  color: rgba(56, 178, 172, var(--text-opacity));
+}
+
+@media (min-width: 1024px) {
+  nav .menu .menu-item a {
+    flex-grow: 1;
+    display: inline-block;
+    margin-top: 0;
+  }
+
+}
+@media (min-width: 1024px) {
+  .btn {
+    margin-top: 0;
+  }
+
