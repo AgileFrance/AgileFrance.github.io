@@ -60,7 +60,8 @@ footer {
   line-height: 1.2;
   font-size: 80%;
   background: #DDD;
-  color: #303030;
+  color: white;
+  background-color: #4299e1;
   padding: 1em;
   text-align: right;
   margin-top: 5em;
