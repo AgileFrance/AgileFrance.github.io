@@ -21,20 +21,12 @@ h5 { font-size: 1.2em; }
 h6 { font-size: 1em; }
 small { font-size: 0.833em; }
 
-header, main {
+main {
   max-width: 60em;
   margin-top: 1em;
-  margin-right: 3em;
-  margin-left: 3em;
+  margin-right: auto;
+  margin-left: auto;
   margin-bottom: 1em;
-}
-
-header {
-  text-align: center;
-}
-
-header img {
-  width: 7em;
 }
 
 img {
@@ -59,79 +51,51 @@ blockquote {
 footer {
   line-height: 1.2;
   font-size: 80%;
-  background: #DDD;
-  color: white;
   padding: 1em;
   text-align: right;
   margin-top: 5em;
 }
 
-footer a {
+header, footer {
+  background-color: #4299e1;
+  color: white;
+}
+
+header a, footer a {
   color: inherit;
 }
 
-nav, footer {
-  background-color: #4299e1;
-}
-
-nav {
+header, header nav {
   display: flex;
   align-items: center;
+  flex-direction: column;
+}
+
+header {
   justify-content: space-between;
-  flex-wrap: wrap;
-  padding: 1.5rem;
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
   padding-right: 3em;
   padding-left: 3em;
 }
 
-nav .brand {
-  display: flex;
-  margin-right: 1.6rem;
-  color: white;
-  font-weight: 600;
-  font-size: 1.25rem;
-  letter-spacing: -0.025em;
+header img {
+  width: 7em;
 }
 
-nav .menu {
-  width: 100%;
-  display: block;
-  flex-grow: 1;
-
-}
-
-@media (min-width: 1024px) {
-  nav .menu {
-    display: flex;
-    width: auto;
-    align-items: center;
-  }
-  nav .menu .menu-item {
-    flex-grow: 1;
-  }
-}
-
-nav .menu .menu-item a {
+header nav a {
   text-decoration: none;
-  font-size: 0.875rem;
-  display: block;
-  margin-top: 1rem;
-  margin-right: 1rem;
-  color: white;
+  margin-top: .5em;
 }
 
-nav .menu .menu-item a:hover,
-nav .menu .menu-item a:focus {
+header nav a:hover,
+header nav a:focus {
   color: #FFFFE0;
   text-decoration: underline;
 }
 
-.btn {
+header a.btn {
   padding: 0.5rem 1rem;
-  margin-top: 1rem;
-  line-height: 1;
-  font-size: 0.875rem;
-  color: white;
   display: inline-block;
   border: solid 1px;
   border-radius: 0.25rem;
@@ -139,21 +103,18 @@ nav .menu .menu-item a:focus {
   text-decoration: none;
 }
 
-.btn:hover {
+header a.btn:hover,
+header a.btn:focus {
   background-color: white;
   color: rgba(56, 178, 172, 1);
 }
 
 @media (min-width: 1024px) {
-  nav .menu .menu-item a {
-    flex-grow: 1;
-    display: inline-block;
-    margin-top: 0;
+  header, header nav {
+    flex-direction: row;
   }
-
+  header nav a {
+    margin-top: 0;
+    margin-right: 2em;
+  }
 }
-@media (min-width: 1024px) {
-  .btn {
-    margin-top: 0;
-  }
-
