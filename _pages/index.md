@@ -30,13 +30,16 @@ En contrepartie, nous nous attendons à ce que :
 
 1. **Au moins un‧e des membres de l’équipe d’organisation soit [membre de l’association](adhesion)**, notamment afin de garantir l’application des contrats d’assurance.
 2. **L’initiative ne soit pas conçue pour être déficitaire** (sinon, il s’agit d’une demande de subvention, que nous offrons plus exceptionnellement).
-3. **Le public visé soit mixte et divers**, et plus généralement que l’événement soit inclusif. Nous vous enverrons notamment un sondage à adresser aux participant‧e‧s afin de pouvoir suivre cet aspect.
-4. **L’organisation soit communautaire, sans sponsors commerciaux.**
-5. **La majorité du contenu soit francophone.**
-6. **Un rapport financier public soit fourni à l’issue du projet.** Il s’agit simplement de deux camemberts qui indiquent d’où viennent vos rentrées d’argent, et quelles sont vos dépenses. [Exemple](http://2017.conf.agile-france.org/docs/bilan-agilefrance-2017.pdf).
-7. **Les éventuels bénéfices soient mutualisés**, ou que vous les utilisiez pour pérenniser votre initiative de manière indépendante.
+3. **L’organisation soit communautaire, sans sponsors commerciaux.**
+4. **La majorité du contenu soit francophone.**
+5. **Un rapport financier public soit fourni à l’issue du projet.** Il s’agit simplement de deux camemberts qui indiquent d’où viennent vos rentrées d’argent, et quelles sont vos dépenses. [Exemple](http://2017.conf.agile-france.org/docs/bilan-agilefrance-2017.pdf).
+6. **Les éventuels bénéfices soient mutualisés**, ou que vous les utilisiez pour pérenniser votre initiative de manière indépendante.
+7. **Le public visé soit mixte et divers**, et plus généralement que l’événement soit inclusif. Nous sommes signataires de la [Charte de la diversité](https://diversitycharter.org/home-fr/) et votre événement devra en suivre les principes. Nous vous enverrons notamment un sondage à adresser aux participant‧e‧s afin de pouvoir suivre cet aspect.
 
-Cela vous intéresse ? [Proposez votre initiative](mailto:bureau@agile-france.org?subject=Soutien) !
+![Charte de la diversité](/img/diversity-charter.png)
+
+
+### Cela vous intéresse ? [Proposez votre initiative](mailto:bureau@agile-france.org?subject=Soutien) !
 
 Vous n’êtes pas certain‧e d’être éligible mais votre initiative est compatible avec nos [statuts](/statuts) et vous vous sentez aligné‧e avec les [intentions du bureau](/bureau/2018) ? [Discutons-en](mailto:bureau@agile-france.org?subject=Demande) ! 😉
 
@@ -55,6 +58,7 @@ La cotisation annuelle coûte 20 €. En adhérant, vous obtenez accès à nos 
 - [Conférence Agile France](https://2020.conf.agile-france.org)
 - [Appel à projets COVID-19](/appel-a-projets-covid-19)
 - [frug'AgileFrance](https://2020.conf.agile-france.org/frug-agile-france.html)
+- Traduction en français de la [Charte de diversité](https://diversitycharter.org/home-fr/) _(projet porté par l'association)_
 
 ### 2019
 
