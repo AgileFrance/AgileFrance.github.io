@@ -12,10 +12,6 @@ permalink: /
 
 — _Article 2 des [Statuts de l’association](/statuts)_
 
-## Appel à projets COVID-19
-
-Cet [appel vise à produire du contenu et des outils qui facilitent l'adaptation au confinement](appel-a-projets-covid-19) et est doté de 10 000 € TTC.
-
 ## Notre mode d’action
 
 Notre mode de soutien principal consiste en :
@@ -39,13 +35,6 @@ En contrepartie, nous nous attendons à ce que :
 Cela vous intéresse ? [Proposez votre initiative](mailto:bureau@agile-france.org?subject=Soutien) !
 
 Vous n’êtes pas certain‧e d’être éligible mais votre initiative est compatible avec nos [statuts](/statuts) et vous vous sentez aligné‧e avec les [intentions du bureau](/bureau/2018) ? [Discutons-en](mailto:bureau@agile-france.org?subject=Demande) ! 😉
-
-
-## Adhérer
-
-Si vous partagez [nos valeurs](/bureau/2018) et que vous souhaitez soutenir nos efforts, [rejoignez l'association](adhesion) !
-
-La cotisation annuelle coûte 20 €. En adhérant, vous obtenez accès à nos outils de prise de décision collective et donnez du poids aux initiatives soutenues.
 
 
 ## Initiatives soutenues
@@ -94,50 +83,3 @@ La cotisation annuelle coûte 20 €. En adhérant, vous obtenez accès à nos 
 - Geek Camp
 - Agile Beirut
 - Lean Camp
-
-
-## Le mot de l’asso
-
-Lors de la conférence AgileFrance a régulièrement eu lieu une prise de parole de l’association. Ces « mots » font partie de son histoire publique.
-
-{% assign mots = site.mot_conference | reverse %}
-
-{% for mot in mots -%}
-- [{{ mot.title }}]({{ mot.url }})
-{% endfor %}
-
-
-## Assemblées générales
-
-Les assemblées générales sont les réunions annuelles lors desquelles le bureau présente son bilan, où le bureau peut être renouvelé, et où de grandes orientations peuvent être décidées.
-
-{% assign assemblees_generales = site.assemblee_generale | reverse %}
-
-{% for ag in assemblees_generales -%}
-- [{{ ag.title }}]({{ ag.url }})
-{% endfor %}
-
-
-## Bureaux
-
-Le bureau de l’association est actuellement composé de :
-
-- [Matti Schneider](https://mattischneider.fr/)
-- Julien Porot
-- [Julie Quillé](https://www.linkedin.com/in/juliequille/)
-- [Christophe Robillard](https://twitter.com/krichtof)
-- Bénédicte Taillebois
-
-Les bureaux successifs ont donné des orientations à l’association qui ont construit son histoire.
-
-{% assign bureaux = site.bureau | reverse %}
-
-{% for bureau in bureaux -%}
-- {{ bureau.election | date: "%Y" }} — [{{ bureau.title }}]({{ bureau.url }})
-{% endfor %}
-
-
-## Documents
-
-- [Statuts](/statuts)
-- [Réglement intérieur](/reglement)
