@@ -118,8 +118,10 @@ nav .menu .menu-item a {
   color: white;
 }
 
-nav .menu .menu-item a:hover {
-  color: rgba(178, 245, 234, 1);
+nav .menu .menu-item a:hover,
+nav .menu .menu-item a:focus {
+  color: #FFFFE0;
+  text-decoration: underline;
 }
 
 .btn {
