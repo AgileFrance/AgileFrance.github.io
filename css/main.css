@@ -61,7 +61,6 @@ footer {
   font-size: 80%;
   background: #DDD;
   color: white;
-  background-color: #4299e1;
   padding: 1em;
   text-align: right;
   margin-top: 5em;
@@ -71,12 +70,15 @@ footer a {
   color: inherit;
 }
 
+nav, footer {
+  background-color: #4299e1;
+}
+
 nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
   flex-wrap: wrap;
-  background-color: #4299e1;
   padding: 1.5rem;
   padding-right: 3em;
   padding-left: 3em;
