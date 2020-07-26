@@ -85,7 +85,6 @@ nav {
 nav .brand {
   display: flex;
   margin-right: 1.6rem;
-  --text-opacity: 1;
   color: white;
   font-weight: 600;
   font-size: 1.25rem;
@@ -120,8 +119,7 @@ nav .menu .menu-item a {
 }
 
 nav .menu .menu-item a:hover {
-  --text-opacity: 1;
-  color: rgba(178, 245, 234, var(--text-opacity));
+  color: rgba(178, 245, 234, 1);
 }
 
 .btn {
@@ -139,8 +137,7 @@ nav .menu .menu-item a:hover {
 
 .btn:hover {
   background-color: white;
-  --text-opacity: 1;
-  color: rgba(56, 178, 172, var(--text-opacity));
+  color: rgba(56, 178, 172, 1);
 }
 
 @media (min-width: 1024px) {
