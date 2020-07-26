@@ -1,13 +1,13 @@
 html {
-	font-size: 16px;
+  font-size: 16px;
 }
 
 body {
-	font-family: "Helvetica Neue", Helvetica, sans-serif;
-	background-color: #F9F9F9;
-	color: #0D2030;
-	margin: 0;
-	line-height: 1.5;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  background-color: #F9F9F9;
+  color: #0D2030;
+  margin: 0;
+  line-height: 1.5;
 }
 
 h1, h2, h3, h4, h5, h6, th { font-weight: normal; }
@@ -21,51 +21,104 @@ h5 { font-size: 1.2em; }
 h6 { font-size: 1em; }
 small { font-size: 0.833em; }
 
-header, main {
-	max-width: 60em;
-	margin-top: 1em;
-	margin-right: auto;
-	margin-left: auto;
-	margin-bottom: 1em;
-}
-
-header {
-	text-align: center;
-}
-
-header img {
-	width: 7em;
+main {
+  max-width: 60em;
+  margin-top: 1em;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 1em;
 }
 
 img {
-	width: 48%;
+  width: 48%;
 }
 
 ul, ol, li {
-	margin-left: 0;
-	padding-left: 0;
+  margin-left: 0;
+  padding-left: 0;
 }
 
 ul {
-	list-style: disc outside none;
+  list-style: disc outside none;
 }
 
 blockquote {
-	border-left: solid .2em #333;
-	padding-left: 1em;
-	margin-left: 0;
+  border-left: solid .2em #333;
+  padding-left: 1em;
+  margin-left: 0;
 }
 
 footer {
-	line-height: 1.2;
-	font-size: 80%;
-	background: #DDD;
-	color: #303030;
-	padding: 1em;
-	text-align: right;
-	margin-top: 5em;
+  line-height: 1.2;
+  font-size: 80%;
+  padding: 1em;
+  text-align: right;
+  margin-top: 5em;
 }
 
-footer a {
-	color: inherit;
+header, footer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #4299e1;
+  color: white;
+}
+
+header a, footer a {
+  color: inherit;
+}
+
+header {
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+  padding-right: 3em;
+  padding-left: 3em;
+}
+
+header nav {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+header img {
+  width: 7em;
+}
+
+header nav a {
+  text-decoration: none;
+  margin-top: .5em;
+}
+
+header nav a:hover,
+header nav a:focus {
+  color: #FFFFE0;
+  text-decoration: underline;
+}
+
+header a.btn {
+  padding: 0.5rem 1rem;
+  display: inline-block;
+  border: solid 1px;
+  border-radius: 0.25rem;
+  border-color: white;
+  text-decoration: none;
+}
+
+header a.btn:hover,
+header a.btn:focus {
+  background-color: white;
+  color: rgba(56, 178, 172, 1);
+}
+
+@media (min-width: 1024px) {
+  header, header nav, footer {
+    flex-direction: row;
+  }
+
+  header nav a {
+    margin-top: 0;
+    margin-right: 2em;
+  }
 }
