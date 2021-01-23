@@ -15,7 +15,7 @@ bundle install
 bundle exec jekyll serve
 ```
 
-Dans l'éventualité où l'installation de nokogiri poserait problème avec les versions système de `libxml`, vous pouvez tenter d'installer [rbenv](https://github.com/rbenv/rbenv) en combinant une nouvelle installation avec la variable d'environnement `NOKOGIRI_USE_SYSTEM_LIBRARIES` mise à `true`.
+Dans l'éventualité où l'installation de `nokogiri` poserait problème avec les versions système de `libxml`, vous pouvez tenter d'installer [rbenv](https://github.com/rbenv/rbenv) en combinant une nouvelle installation avec la variable d'environnement `NOKOGIRI_USE_SYSTEM_LIBRARIES` mise à `true`.
 
 Les fichiers pertinents pour une modification de la présentation sont probablement dans les dossiers `_layouts` et `css`.
 
