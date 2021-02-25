@@ -17,9 +17,9 @@ permalink: /reglement
 ### A. Prix
 
 1. L’adhésion se fait par le site web de l’association. Les membres doivent fournir leur nom, prénom et adresse électronique.
-2. Le montant de la cotisation annuelle est fixé à 20 €.
+2. Le montant de la cotisation annuelle est fixé à 20 €.
 3. Un tarif solidaire est proposé aux personnes à faibles revenus.
-4. Le montant de la cotisation à tarif solidaire est fixé à 5€.
+4. Le montant de la cotisation à tarif solidaire est fixé à 5 €.
 
 ### B. Modalités
 
@@ -28,7 +28,7 @@ permalink: /reglement
 3. Les membres peuvent à tout moment mettre à jour leurs informations de contact.
 4. L'association n'est pas responsable des conséquences qui pourraient découler de données erronées ou obsolètes.
 5. La campagne d'adhésion est ouverte au mois de janvier.
-6. L'adhésion est valable de la date de réception du paiement jusqu'au 31/01 de l'année suivante.
+6. L'adhésion est valable de la date de réception du paiement jusqu'au 31 janvier de l'année suivante.
 
 _Par exemple, pour une adhésion demandée le 3 janvier 2020, dont le paiement est reçu sur le compte bancaire de l'association le 5 janvier 2020, et avec deux assemblées générales ordinaires le 16 février 2020 et 14 février 2021, l'adhésion est valide du 5 janvier 2020 au 31 janvier 2021. Le résultat est le même pour une cotisation payée le 13 novembre 2020._
 
@@ -57,14 +57,14 @@ _Par exemple, pour une adhésion demandée le 3 janvier 2020, dont le paiement e
 5. Les soutiens à la subvention doivent être obtenus sous 14 jours après l'information des adhérent‧e‧s de la validation de la proposition.
 6. Comme indiqué au 1.4, si le nombre de soutiens nécessaire est supérieur au nombre de membres, le bureau peut à sa discrétion organiser une assemblée générale extraordinaire pour décider de l’octroi de cette subvention. De manière générale, tout‧e adhérent‧e peut proposer une subvention lors d'une assemblée générale.
 
-_Par exemple, si le bilan comptable de l'année N a montré un excédent de 10000€ et qu'une subvention de 2000€ est proposée, elle doit réunir les votes d'au moins 40% des adhérent‧e‧s pour être allouée. Cela implique que (sauf décision en AG) : aucune subvention unique ne peut être allouée pour un montant supérieur à la moitié de l'excédent de l'exercice précédent (mais pas que plusieurs subventions cumulées ne pourraient pas dépasser ce montant) ; et qu'aucune subvention ne peut être allouée sans passer par une AG en cas de déficit lors de l'exercice précédent._
+_Par exemple, si le bilan comptable de l'année N a montré un excédent de 10 000 € et qu'une subvention de 2 000 € est proposée, elle doit réunir les votes d'au moins 40 % des adhérent‧e‧s pour être allouée. Cela implique que (sauf décision en AG) : aucune subvention unique ne peut être allouée pour un montant supérieur à la moitié de l'excédent de l'exercice précédent (mais pas que plusieurs subventions cumulées ne pourraient pas dépasser ce montant) ; et qu'aucune subvention ne peut être allouée sans passer par une AG en cas de déficit lors de l'exercice précédent._
 
 ### C. Autres formes d'action et liberté d'expérimentation
 
 1. Toute autre forme d'action peut être expérimentée par les adhérent‧e‧s.
 2. Toute autre forme d'action peut être revendiquée au nom de l'association dès lors qu'elle est conforme à la mission de l'association et que tous les adhérent‧e‧s en sont informés.
 3. Toute forme de soutien peut être engagée par l'association à cette action sur décision simple du bureau.
-4. Il est entendu qu'une demande de soutien à caractère essentiellement financier sera considérée comme une demande de subvention, et sera donc traitée selon les modalités définies à l'article 5b.
+4. Il est entendu qu'une demande de soutien à caractère essentiellement financier sera considérée comme une demande de subvention, et sera donc traitée selon les modalités définies à l'article 5.B.
 
 ### D. Priorité
 
