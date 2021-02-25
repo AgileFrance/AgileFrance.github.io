@@ -12,7 +12,6 @@ permalink: /reglement
 - Les convocations sont envoyées exclusivement par courrier électronique aux adresses fournies par les membres.
 - Pour rappel l'AG est souveraine, ainsi elle pourra soumettre aux votes une proposition différente de ce que préconise le règlement intérieur.
 
-
 ## Article 2a : Adhésion (prix)
 
 - L’adhésion se fait par le site web de l’association. Les membres doivent fournir leur nom, prénom et adresse électronique.
@@ -32,7 +31,6 @@ permalink: /reglement
 _Par exemple, pour une adhésion demandée le 3 janvier 2020, dont le paiement est reçu sur le compte bancaire de l'association le 5 janvier 2020, et avec deux assemblées générales ordinaires le 16 février 2020 et 14 février 2021, l'adhésion est valide du 5 janvier 2020 au 31 janvier 2021. Le résultat est le même pour une cotisation payée le 13 novembre 2020._
 
 ## Article 3 : Modalités de contact
-
 
 - L’adhésion se fait uniquement par le site web de l’association.
 - Les membres doivent fournir leur nom, prénom et adresse électronique.
