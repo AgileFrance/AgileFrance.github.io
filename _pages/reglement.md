@@ -19,7 +19,7 @@ permalink: /reglement
 - Un tarif solidaire est proposé aux personnes à faibles revenus.
 - Le montant de la cotisation à tarif solidaire est fixé à 5€.
 
-## Artcile 2b : Adhésion (modalités)
+## Article 2b : Adhésion (modalités)
 
 - L’adhésion se fait uniquement par le site web de l’association.
 - Les membres doivent fournir leur nom, prénom et adresse électronique.
