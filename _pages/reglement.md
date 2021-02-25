@@ -32,20 +32,13 @@ permalink: /reglement
 
 _Par exemple, pour une adhésion demandée le 3 janvier 2020, dont le paiement est reçu sur le compte bancaire de l'association le 5 janvier 2020, et avec deux assemblées générales ordinaires le 16 février 2020 et 14 février 2021, l'adhésion est valide du 5 janvier 2020 au 31 janvier 2021. Le résultat est le même pour une cotisation payée le 13 novembre 2020._
 
-## Article 3 : Modalités de contact
-
-1. L’adhésion se fait uniquement par le site web de l’association.
-2. Les membres doivent fournir leur nom, prénom et adresse électronique.
-3. La campagne d'adhésion est ouverte au mois de janvier.
-4. L'adhésion est valable de la date de réception du paiement jusqu'au 31/01 de l'année suivante.
-
-## Article 4 : Modalités d'échange
+## Article 3 : Modalités d'échange
 
 1. L'intégralité des échanges au sein de l'association se fait de manière électronique.
 2. Une « assemblée permanente » est permise par des outils numériques dédiés.
 3. Les décisions prises par ces moyens électroniques ont même force de loi que les décisions prises par des réunions en présentiel.
 
-## Article 5 : Modalités d'action
+## Article 4 : Modalités d'action
 
 ### A. Soutien aux initiatives
 
@@ -61,7 +54,7 @@ _Par exemple, pour une adhésion demandée le 3 janvier 2020, dont le paiement e
 2. Le bureau valide la proposition sous 14 jours en s’assurant de la conformité du projet avec la mission de l'association.
 3. Si le bureau valide la proposition, il en informe tous les adhérent‧e‧s et leur fournit un moyen d'indiquer leur soutien à la proposition.
 4. La subvention est attribuée dès lors qu'elle réunit un nombre de soutiens qui représente en pourcentage du nombre total d'adhérent‧e‧s le double de pourcents que le montant de la subvention proposée représente du résultat de l'exercice précédent.
-5. Les soutiens à la subvention doivent être obtenus sous 14 jours* au maximum après l'information des adhérent‧e‧s de la validation de la proposition.
+5. Les soutiens à la subvention doivent être obtenus sous 14 jours après l'information des adhérent‧e‧s de la validation de la proposition.
 6. Comme indiqué au 1.4, si le nombre de soutiens nécessaire est supérieur au nombre de membres, le bureau peut à sa discrétion organiser une assemblée générale extraordinaire pour décider de l’octroi de cette subvention. De manière générale, tout‧e adhérent‧e peut proposer une subvention lors d'une assemblée générale.
 
 _Par exemple, si le bilan comptable de l'année N a montré un excédent de 10000€ et qu'une subvention de 2000€ est proposée, elle doit réunir les votes d'au moins 40% des adhérent‧e‧s pour être allouée. Cela implique que (sauf décision en AG) : aucune subvention unique ne peut être allouée pour un montant supérieur à la moitié de l'excédent de l'exercice précédent (mais pas que plusieurs subventions cumulées ne pourraient pas dépasser ce montant) ; et qu'aucune subvention ne peut être allouée sans passer par une AG en cas de déficit lors de l'exercice précédent._
