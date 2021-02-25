@@ -10,16 +10,15 @@ permalink: /reglement
 1. L'Assemblée générale ordinaire a lieu chaque année au mois de février.
 2. Les convocations sont envoyées en janvier.
 3. Les convocations sont envoyées exclusivement par courrier électronique aux adresses fournies par les membres.
-4. Pour rappel l'AG est souveraine, ainsi elle pourra soumettre aux votes une proposition différente de ce que préconise le règlement intérieur.
+4. Pour rappel l'AG est souveraine, ainsi elle pourra soumettre au vote une proposition différente de ce que préconise le règlement intérieur.
 
 ## Article 2 : Adhésion
 
 ### A. Prix
 
-1. L’adhésion se fait par le site web de l’association. Les membres doivent fournir leur nom, prénom et adresse électronique.
-2. Le montant de la cotisation annuelle est fixé à 20 €.
-3. Un tarif solidaire est proposé aux personnes à faibles revenus.
-4. Le montant de la cotisation à tarif solidaire est fixé à 5 €.
+1. Le montant de la cotisation annuelle est fixé à 20 €.
+2. Un tarif solidaire est proposé aux personnes à faibles revenus.
+3. Le montant de la cotisation à tarif solidaire est fixé à 5 €.
 
 ### B. Modalités
 
@@ -35,29 +34,29 @@ _Par exemple, pour une adhésion demandée le 3 janvier 2020, dont le paiement e
 ## Article 3 : Modalités d'échange
 
 1. L'intégralité des échanges au sein de l'association se fait de manière électronique.
-2. Une « assemblée permanente » est permise par des outils numériques dédiés.
+2. Une « assemblée permanente » est permise par des outils numériques dédiés.
 3. Les décisions prises par ces moyens électroniques ont même force de loi que les décisions prises par des réunions en présentiel.
 
 ## Article 4 : Modalités d'action
 
 ### A. Soutien aux initiatives
 
-1. Une initiative peut être une conférence, un séminaire, un atelier, une publication, ou toute autre activité délimitée dans le temps, conforme à la mission de l’association, portée par au moins un membre de l'association, et qui n'a pas vocation à être déficitaire.
+1. Une « initiative » peut être une conférence, un séminaire, un atelier, une publication, ou toute autre activité délimitée dans le temps, conforme à la mission de l’association, portée par au moins un membre de l'association, et qui n'a pas vocation à être déficitaire.
 2. Toute initiative peut demander le soutien de l'association. Le bureau décide du soutien ou non.
 3. Si le soutien à une initiative est décidé, l'association l'appuie par tous les moyens à sa disposition.
 4. Une fois l'initiative réalisée, un bilan financier et matériel est réalisé.
-5. Les éventuels matériels et excédents financiers sont par défaut propriété de l'association. Ceux-ci peuvent être transférés sur demande de l'équipe d'organisation à une autre structure juridique à but non lucratif. Cette demande doit être formulée dans les 12 mois qui suivent la cloture comptable de l'initiative.
+5. Les éventuels matériels et excédents financiers sont par défaut propriété de l'association. Ceux-ci peuvent être transférés sur demande de l'équipe d'organisation à une autre structure juridique à but non lucratif. Cette demande doit être formulée dans les 12 mois qui suivent la clôture comptable de l'initiative.
 
 ### B. Subventions
 
-1. Une subvention à tout projet peut être proposée au bureau par un ou plusieurs adhérent‧es.
+1. Une subvention à tout projet peut être proposée au bureau par un‧e ou plusieurs adhérent‧e‧s.
 2. Le bureau valide la proposition sous 14 jours en s’assurant de la conformité du projet avec la mission de l'association.
 3. Si le bureau valide la proposition, il en informe tous les adhérent‧e‧s et leur fournit un moyen d'indiquer leur soutien à la proposition.
 4. La subvention est attribuée dès lors qu'elle réunit un nombre de soutiens qui représente en pourcentage du nombre total d'adhérent‧e‧s le double de pourcents que le montant de la subvention proposée représente du résultat de l'exercice précédent.
 5. Les soutiens à la subvention doivent être obtenus sous 14 jours après l'information des adhérent‧e‧s de la validation de la proposition.
 6. Comme indiqué au 1.4, si le nombre de soutiens nécessaire est supérieur au nombre de membres, le bureau peut à sa discrétion organiser une assemblée générale extraordinaire pour décider de l’octroi de cette subvention. De manière générale, tout‧e adhérent‧e peut proposer une subvention lors d'une assemblée générale.
 
-_Par exemple, si le bilan comptable de l'année N a montré un excédent de 10 000 € et qu'une subvention de 2 000 € est proposée, elle doit réunir les votes d'au moins 40 % des adhérent‧e‧s pour être allouée. Cela implique que (sauf décision en AG) : aucune subvention unique ne peut être allouée pour un montant supérieur à la moitié de l'excédent de l'exercice précédent (mais pas que plusieurs subventions cumulées ne pourraient pas dépasser ce montant) ; et qu'aucune subvention ne peut être allouée sans passer par une AG en cas de déficit lors de l'exercice précédent._
+_Par exemple, si le bilan comptable de l'année N a montré un excédent de 10 000 € et qu'une subvention de 2 000 € est proposée, elle doit réunir les votes d'au moins (2 000 ÷ 10 000) × 2 = 40 % des adhérent‧e‧s pour être allouée. Cela implique que, sauf décision en AG, aucune subvention unique ne peut être allouée pour un montant supérieur à la moitié de l'excédent de l'exercice précédent (mais pas que plusieurs subventions cumulées ne pourraient pas dépasser ce montant) ; et qu'aucune subvention ne peut être allouée sans passer par une AG en cas de déficit lors de l'exercice précédent._
 
 ### C. Autres formes d'action et liberté d'expérimentation
 
