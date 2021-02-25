@@ -25,7 +25,7 @@ permalink: /reglement
 
 1. L’adhésion se fait uniquement par le site web de l’association.
 2. Les membres doivent fournir leur nom, prénom et adresse électronique.
-3. L'adhérent peut à tout moment mettre à jour ses informations de contact.
+3. Les membres peuvent à tout moment mettre à jour leurs informations de contact.
 4. L'association n'est pas responsable des conséquences qui pourraient découler de données erronées ou obsolètes.
 5. La campagne d'adhésion est ouverte au mois de janvier.
 6. L'adhésion est valable de la date de réception du paiement jusqu'au 31/01 de l'année suivante.
