@@ -1,0 +1,19 @@
+body {
+  font-size: 11px;
+  line-height: 1.2;
+  background-color: transparent;
+}
+
+header {
+  display: none;
+}
+
+footer a {
+  visibility: hidden;
+}
+
+footer {
+  background: url(/logo.svg) no-repeat;
+  background-size: contain;
+  color: black;
+}
