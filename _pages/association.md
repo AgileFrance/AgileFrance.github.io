@@ -6,7 +6,7 @@ permalink: /association
 ## Documents officiels
 
 La vie de l'association est encadrée par ses [statuts](/statuts) et son [réglement intérieur](/reglement).
-Compte rendu de la réunion d'échanges sur : [Quelle suite pour Agile France ?](/202201etatsgeneraux).
+Compte rendu de la réunion d'échanges sur : [Quelle suite pour Agile France ?](/2022-01-etats-generaux).
 
 ## Assemblées générales
 
