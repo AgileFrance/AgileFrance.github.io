@@ -38,7 +38,7 @@ Les bureaux successifs ont donné des orientations à l’association qui ont co
 
 ## États généraux
 
-Le bureau a organisé en janvier 2022 des « [États généraux](/etats-generaux-2022) », une série d'ateliers pour penser ensemble le futur d'Agile France..
+Le bureau a organisé en janvier 2022 des « [États généraux](/etats-generaux-2022) », une série d'ateliers pour penser ensemble le futur d'Agile France.
 
 ## Le mot de l’asso
 
