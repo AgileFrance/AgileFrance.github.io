@@ -6,7 +6,6 @@ permalink: /association
 ## Documents officiels
 
 La vie de l'association est encadrée par ses [statuts](/statuts) et son [réglement intérieur](/reglement).
-Compte rendu de la réunion d'échanges sur : [Quelle suite pour Agile France ?](/2022-01-etats-generaux).
 
 ## Assemblées générales
 
@@ -37,6 +36,9 @@ Les bureaux successifs ont donné des orientations à l’association qui ont co
 - {{ bureau.election | date: "%Y" }} — [{{ bureau.title }}]({{ bureau.url }})
 {% endfor %}
 
+## États généraux
+
+Le bureau a organisé en janvier 2022 des « [États généraux](/etats-generaux-2022) », une série d'ateliers pour penser ensemble le futur d'Agile France..
 
 ## Le mot de l’asso
 

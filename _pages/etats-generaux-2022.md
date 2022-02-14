@@ -1,4 +1,7 @@
-# États généraux d'Agile France de janvier 2022
+---
+title: États généraux de janvier 2022
+permalink: /etats-generaux-2022
+---
 
 ## Contexte
 
