@@ -22,11 +22,11 @@ Les assemblées générales sont les réunions annuelles lors desquelles le bure
 
 Le bureau de l’association est actuellement composé de :
 
-- [Matti Schneider](https://mattischneider.fr/)
-- Julien Porot
-- [Julie Quillé](https://www.linkedin.com/in/juliequille/)
-- [Christophe Robillard](https://twitter.com/krichtof)
-- Bénédicte Taillebois
+- Fabrice Bloch
+- Eric Patrizio
+- Sylviane Luong
+- [Gwénaëlle Hirrien](https://fr.linkedin.com/in/gwenaellehirrien)
+- [Nicolas Mereaux](https://fr.linkedin.com/in/nicolas-mereaux-97a00635)
 
 Les bureaux successifs ont donné des orientations à l’association qui ont construit son histoire.
 
