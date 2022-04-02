@@ -37,7 +37,7 @@ En contrepartie, nous nous attendons à ce que :
 
 ### Cela vous intéresse ? [Proposez votre initiative](mailto:bureau@agile-france.org?subject=Soutien) !
 
-Vous n’êtes pas certain‧e d’être éligible mais votre initiative est compatible avec nos [statuts](/statuts) et vous vous sentez aligné‧e avec les [intentions du bureau](/bureau/2018) ? [Discutons-en](mailto:bureau@agile-france.org?subject=Demande) ! 😉
+Vous n’êtes pas certain‧e d’être éligible mais votre initiative est compatible avec nos [statuts](/statuts) et vous vous sentez aligné‧e avec les [intentions du bureau](/bureau/2022) ? [Discutons-en](mailto:bureau@agile-france.org?subject=Demande) ! 😉
 
 
 ## Initiatives soutenues
