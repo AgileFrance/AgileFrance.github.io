@@ -34,11 +34,9 @@ En contrepartie, nous nous attendons à ce que :
 
 ![Charte de la diversité](/img/diversity-charter.png)
 
-
 ### Cela vous intéresse ? [Proposez votre initiative](mailto:bureau@agile-france.org?subject=Soutien) !
 
-Vous n’êtes pas certain‧e d’être éligible mais votre initiative est compatible avec nos [statuts](/statuts) et vous vous sentez aligné‧e avec les [intentions du bureau](/bureau/2022) ? [Discutons-en](mailto:bureau@agile-france.org?subject=Demande) ! 😉
-
+Vous n’êtes pas certain‧e d’être éligible mais votre initiative, en adéquation avec nos [statuts](/statuts) et nos [intentions](/bureau/2022), animerait, ferait croître, la communauté agile francophone ? [Discutons-en](mailto:bureau@agile-france.org?subject=Demande) ! 😉
 
 ## Initiatives soutenues
 
