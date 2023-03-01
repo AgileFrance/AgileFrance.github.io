@@ -14,17 +14,18 @@ Les assemblées générales sont les réunions annuelles lors desquelles le bure
 {% assign assemblees_generales = site.assemblee_generale | reverse %}
 
 {% for ag in assemblees_generales -%}
-- [{{ ag.title }}]({{ ag.url }})
-{% endfor %}
 
+- [{{ ag.title }}]({{ ag.url }})
+
+{% endfor %}
 
 ## Bureaux
 
 Le bureau de l’association est actuellement composé de :
 
-- Fabrice Bloch
-- Eric Patrizio
-- Sylviane Luong
+- [Fabrice Bloch](https://fr.linkedin.com/in/fabrice-bloch-4b9b5194)
+- [Eric Patrizio](https://fr.linkedin.com/in/eric-patrizio-215832)
+- [Sylviane Luong](https://fr.linkedin.com/in/sylviane-luong-56471541)
 - [Gwénaëlle Hirrien](https://fr.linkedin.com/in/gwenaellehirrien)
 - [Nicolas Mereaux](https://fr.linkedin.com/in/nicolas-mereaux-97a00635)
 
@@ -33,7 +34,9 @@ Les bureaux successifs ont donné des orientations à l’association qui ont co
 {% assign bureaux = site.bureau | reverse %}
 
 {% for bureau in bureaux -%}
+
 - {{ bureau.election | date: "%Y" }} — [{{ bureau.title }}]({{ bureau.url }})
+
 {% endfor %}
 
 ## États généraux
@@ -47,5 +50,7 @@ Lors de la conférence AgileFrance a régulièrement eu lieu une prise de parole
 {% assign mots = site.mot_conference | reverse %}
 
 {% for mot in mots -%}
+
 - [{{ mot.title }}]({{ mot.url }})
+
 {% endfor %}
