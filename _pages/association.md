@@ -14,9 +14,7 @@ Les assemblées générales sont les réunions annuelles lors desquelles le bure
 {% assign assemblees_generales = site.assemblee_generale | reverse %}
 
 {% for ag in assemblees_generales -%}
-
 - [{{ ag.title }}]({{ ag.url }})
-
 {% endfor %}
 
 ## Bureaux
@@ -34,9 +32,7 @@ Les bureaux successifs ont donné des orientations à l’association qui ont co
 {% assign bureaux = site.bureau | reverse %}
 
 {% for bureau in bureaux -%}
-
 - {{ bureau.election | date: "%Y" }} — [{{ bureau.title }}]({{ bureau.url }})
-
 {% endfor %}
 
 ## États généraux
@@ -50,7 +46,5 @@ Lors de la conférence AgileFrance a régulièrement eu lieu une prise de parole
 {% assign mots = site.mot_conference | reverse %}
 
 {% for mot in mots -%}
-
 - [{{ mot.title }}]({{ mot.url }})
-
 {% endfor %}
