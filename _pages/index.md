@@ -40,6 +40,11 @@ Vous n’êtes pas certain‧e d’être éligible mais votre initiative, en ad�
 
 ## Initiatives soutenues
 
+### 2023
+- [Conférence Demain c'est maintenant](https://www.demain-maintenant.fr/)
+- [Agile Secteur Public](https://agilesecteurpublic.wixsite.com/agile-secteur-public)
+- [Paris Test Conf](https://paristestconf.com/edition-2023/)
+
 ### 2020
 
 - [Conférence Agile France](https://2020.conf.agile-france.org)
