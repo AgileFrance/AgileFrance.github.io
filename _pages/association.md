@@ -22,9 +22,9 @@ Les assemblées générales sont les réunions annuelles lors desquelles le bure
 Le bureau de l’association est actuellement composé de :
 
 - [Fabrice Bloch](https://fr.linkedin.com/in/fabrice-bloch-4b9b5194)
-- [Eric Patrizio](https://fr.linkedin.com/in/eric-patrizio-215832)
-- [Sylviane Luong](https://fr.linkedin.com/in/sylviane-luong-56471541)
-- [Gwénaëlle Hirrien](https://fr.linkedin.com/in/gwenaellehirrien)
+- [Gwendoline Cartier](https://www.linkedin.com/in/gwendoline-c-25b93229/)
+- [Yannis Martin](https://www.linkedin.com/in/yannismartin/)
+- [Axelle Chauvet](https://www.linkedin.com/in/axelle-chauvet-peyrard/)
 - [Nicolas Mereaux](https://fr.linkedin.com/in/nicolas-mereaux-97a00635)
 
 Les bureaux successifs ont donné des orientations à l’association qui ont construit son histoire.
