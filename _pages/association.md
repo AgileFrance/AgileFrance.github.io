@@ -24,8 +24,8 @@ Le bureau de l’association est actuellement composé de :
 - [Fabrice Bloch](https://fr.linkedin.com/in/fabrice-bloch-4b9b5194)
 - [Gwendoline Cartier](https://www.linkedin.com/in/gwendoline-c-25b93229/)
 - [Yannis Martin](https://www.linkedin.com/in/yannismartin/)
-- [Axelle Chauvet](https://www.linkedin.com/in/axelle-chauvet-peyrard/)
-- [Nicolas Mereaux](https://fr.linkedin.com/in/nicolas-mereaux-97a00635)
+- [Pierre Grigoletto](https://www.linkedin.com/in/pierre-grigoletto/)  
+- [Natacha Fourmy](https://www.linkedin.com/in/natacha-fourmy/)
 
 Les bureaux successifs ont donné des orientations à l’association qui ont construit son histoire.
 
