@@ -40,6 +40,10 @@ Vous n’êtes pas certain‧e d’être éligible mais votre initiative, en ad�
 
 ## Initiatives soutenues
 
+### 2025
+- [Paris Test Conf](https://paristestconf.com/conference/)
+- [Agile Games IDF](https://www.agilegamesfrance.fr/doku.php?id=evenement_agidf2025)
+
 ### 2024
 - [Agile Secteur Public](https://agilesecteurpublic.wixsite.com/agile-secteur-public/programme-2024)
 - [Paris Test Conf](https://paristestconf.com/conference/)
