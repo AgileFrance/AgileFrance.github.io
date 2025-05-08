@@ -43,10 +43,12 @@ Vous n’êtes pas certain‧e d’être éligible mais votre initiative, en ad�
 ### 2025
 - [Paris Test Conf](https://paristestconf.com/edition-2025/)
 - [Agile Games IDF](https://www.agilegamesfrance.fr/doku.php?id=evenement_agidf2025)
+- [Gribouille Academie](https://www.meetup.com/fr-FR/gribouille-academie/)
 
 ### 2024
 - [Agile Secteur Public](https://agilesecteurpublic.wixsite.com/agile-secteur-public/programme-2024)
 - [Agile Games IDF](https://www.agilegamesfrance.fr/doku.php?id=evenement_agidf2025)
+- [Gribouille Academie](https://www.meetup.com/fr-FR/gribouille-academie/)
 
 ### 2023
 - [Conférence Demain c'est maintenant](https://www.demain-maintenant.fr/)
