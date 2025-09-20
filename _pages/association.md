@@ -38,16 +38,20 @@ Les bureaux successifs ont donné des orientations à l’association qui ont co
 Rôle et responsabilité du bureau
 
 -	Principes de base
+
 Le bureau de l’association a essentiellement un rôle administratif.
 Il n'a pas pour vocation d’animer l’association. Ce rôle est celui de tous les adhérents. 
 -	Les initiatives de l’association
+	
 Chaque adhérent de l’association est libre de lancer et piloter une initiative dans le respect des statuts et du règlement intérieur de l’association. Tous les adhérents de l’association peuvent demander à y participer.
 Le bureau ne lance ni ne pilote pas les initiatives (validation, animation, etc.) même si un de ses membres peut le faire en tant qu’adhérent de l’association. Le bureau peut apporter son aide aux adhérents qui souhaiteraient lancer une initiative et qui lui en ferait la demande.
 -	Les outils (forum de discussion, site internet, droits d’accès des adhérents, communication, archives documentaires, comptabilité, etc.)
+
 Le bureau est responsable des outils utilisés par l’association.
 Il en a les droits administrateurs et est le seul habilité à y faire les évolutions ou interventions nécessaires (Exemples : évolution du site internet, ajout de droits d’accès à un nouvel adhérent, communication au nom de l’association, etc.).
 Il peut déléguer à un adhérent de l’association des actions à faire sur ces outils, mais il en garde la responsabilité et la supervision.
 -	Les initiatives extérieures soutenues par l’association (conférences)
+
 Le bureau est responsable et pilote les échanges avec les organisateurs des initiatives extérieures soutenues par l’association (conférences).
 Il peut déléguer à un adhérent de l’association des actions à faire avec ces organisateurs, mais il en garde la responsabilité et la supervision.
 
