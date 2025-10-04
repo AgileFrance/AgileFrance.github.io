@@ -24,7 +24,7 @@ Le bureau de l’association est actuellement composé de :
 - [Fabrice Bloch](https://fr.linkedin.com/in/fabrice-bloch-4b9b5194)
 - [Gwendoline Cartier](https://www.linkedin.com/in/gwendoline-c-25b93229/)
 - [Yannis Martin](https://www.linkedin.com/in/yannismartin/)
-- [Pierre Grigoletto](https://www.linkedin.com/in/pierre-grigoletto/)  
+- [Pierre Grigoletto](https://www.linkedin.com/in/pierre-grigoletto/)  - démissionnaire au 28/09/2025 - 
 - [Natacha Fourmy](https://www.linkedin.com/in/natacha-fourmy/)
 
 Les bureaux successifs ont donné des orientations à l’association qui ont construit son histoire.
