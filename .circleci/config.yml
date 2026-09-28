@@ -10,7 +10,7 @@ jobs:
       - restore_cache:
           key: dependency-cache-{{ checksum "Gemfile" }}
 
-      - run 
+      - run: 
           name: Set Ruby bundle path
           command: bundle config set path "vendor/bundle"
 
