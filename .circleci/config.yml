@@ -10,9 +10,13 @@ jobs:
       - restore_cache:
           key: dependency-cache-{{ checksum "Gemfile" }}
 
+      - run 
+          name: Set Ruby bundle path
+          command: bundle config set path "vendor/bundle"
+
       - run:
           name: Install Ruby dependencies
-          command: bundle install --jobs=4 --retry=3 config set path "vendor/bundle"
+          command: bundle install --jobs=4 --retry=3
 
       - run:
           name: Install html5validator
