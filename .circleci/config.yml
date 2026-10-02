@@ -1,25 +1,38 @@
 # CircleCI 2.0 configuration file. See <https://circleci.com/docs/2.0/language-ruby/>.
-version: 2
+version: 2.1
 jobs:
   build:
     docker:
-       - image: circleci/ruby:2.7.3-browsers  # use the browsers variant image to have Java preinstalled as it is a dependency of html5validator
+       - image: cimg/ruby:3.3.4-browsers  # use the browsers variant image to have Java preinstalled as it is a dependency of html5validator
 
     steps:
       - checkout
       - restore_cache:
           key: dependency-cache-{{ checksum "Gemfile" }}
+          paths:
+            - ./vendor/bundle
+            - ~/.local
+
+      - run: 
+          name: Set Ruby bundle path
+          command: bundle config set path "vendor/bundle"
 
       - run:
           name: Install Ruby dependencies
-          command: bundle install --jobs=4 --retry=3 --path vendor/bundle
+          command: bundle install --jobs=4 --retry=3
 
+      - run:
+          name: Delete Google Chrome
+          command: |
+            # Le dépôt Google Chrome préinstallé a une clé expirée et casse apt-get update
+            sudo grep -rl "dl.google.com" /etc/apt/sources.list /etc/apt/sources.list.d/ | xargs -r sudo rm -f
+            
       - run:
           name: Install html5validator
           command: |
             sudo apt-get update
-            sudo apt-get install -y python-pip
-            pip install --user --upgrade html5validator  # will install in $HOME/.local
+            sudo apt-get install -y python3-pip
+            pip3 install --user --upgrade html5validator  # installé dans $HOME/.local
 
       - save_cache:
           key: dependency-cache-{{ checksum "Gemfile" }}
@@ -57,3 +70,8 @@ jobs:
             while ! curl --silent http://localhost:4000
             do sleep 1
             done
+
+workflows:
+  build:
+    jobs:
+        - build

@@ -43,5 +43,5 @@ end
 
 
 group :test do
-  gem 'html-proofer'
+  gem 'html-proofer', '~> 3.19'
 end
