@@ -1,5 +1,5 @@
 # CircleCI 2.0 configuration file. See <https://circleci.com/docs/2.0/language-ruby/>.
-version: 2
+version: 2.1
 jobs:
   build:
     docker:
