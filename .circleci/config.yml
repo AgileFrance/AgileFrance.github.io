@@ -18,21 +18,11 @@ jobs:
           name: Install Ruby dependencies
           command: bundle install --jobs=4 --retry=3
 
-      - run: 
-          name: Install Google Chrome
-          command: |
-            wget -q -O - https://dl.google.com/linux/linux_signing_key.pub
-            gpg --dearmor -o /usr/share/keyrings/google-linux.gpg
-            echo "deb [arch=amd64 signed-by=/usr/share/keyrings/google-linux.gpg] http://dl.google.com/linux/chrome/deb stable main" > /etc/apt/sources.list.d/google-chrome.list
-            apt-get update -y
-            apt-get install -y google-chrome-stable
-
       - run:
           name: Install html5validator
           command: |
             sudo apt-get update
             sudo apt-get install -y python-pip
-            pip config set global.trusted-host "dl.google.com"
             pip install --user --upgrade html5validator  # will install in $HOME/.local
 
       - save_cache:
