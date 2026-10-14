@@ -53,7 +53,7 @@ Les ressources de l’association comprennent :
 
 L’association est dirigée par un Bureau de 5 membres, élu pour 2 années par l’Assemblée générale.
 
-L’élection se fait par la candidature de listes de 5 membres avec une ancienneté de [X] années en tant que membre adhérent de l’association, décrites par une profession de foi lue lors de l'Assemblée générale. Ces listes sont soumises au vote des adhérent·e·s, qui désignent celle élue par jugement majoritaire[<sup>2</sup>](#references).
+L’élection se fait par la candidature de listes de 5 membres avec une ancienneté d'une année en tant que membre adhérent de l’association, décrites par une profession de foi lue lors de l'Assemblée générale. Ces listes sont soumises au vote des adhérent·e·s, qui désignent celle élue par jugement majoritaire[<sup>2</sup>](#references).
 
 Le Bureau désigne par scrutin majoritaire simple[<sup>3</sup>](#references) parmi ses membres un.e Président.e, un.e Trésorier.e et un.e Secrétaire général.e.
 
