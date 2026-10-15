@@ -187,7 +187,7 @@ Il est adopté et peut être modifié par l’Assemblée générale, sur proposi
 - Amendé à Paris, le 26 juin 2012 (changement d'adresse)
 - Amendé à Paris, le 6 mars 2018 (changement d'adresse, modalités de vote)
 - Amendé à Paris, le 24 janvier 2020 (sur la base de la réécriture votée le 6 juin 2019)
-- Amendé à Paris, le [date de l’Assemblée générale ayant adopté la présente version].
+- Amendé à Paris, le 14 octobre 2026 (Clarification des responsabilités, du rôle de l'AG, des conditions de candidature au bureau et ajout de l'Article 13 : Règlement intérieur).
 
 Pour le bureau,
 
