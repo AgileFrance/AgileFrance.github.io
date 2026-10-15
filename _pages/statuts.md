@@ -175,7 +175,7 @@ Si la dissolution est rejetée, aucune autre proposition de dissolution ne pourr
 
 ## Article 13 : Règlement intérieur
 
-Un Règlement intérieur précise les modalités d’application des présents statuts et les règles de fonctionnement de l’association.
+Un [Réglement intérieur](/reglement) précise les modalités d’application des présents statuts et les règles de fonctionnement de l’association.
 
 Il ne peut déroger aux présents statuts.
 
